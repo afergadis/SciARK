@@ -1,0 +1,2010 @@
+{
+    "ABC_G1B2_10.1016_ j.renene.2019.11.106.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Are Trade Liberalization policies aligned with Renewable Energy Transition in low and middle income countries?",
+            "An Instrumental Variable approach",
+            "This paper attempts to empirically analyze the compatibility of national trade liberalization policies with regards to promoting widespread use of renewable energy resources across 71 low, lower-middle and upper-middle income countries from South Asia, East Asia, Pacific, Central Asia, Latin America, Caribbean islands and Sub-Saharan Africa.",
+            "Annual time series data from 2000 to 2017 is employed to perform panel data cointegration and regression analyses.",
+            "The results from the cointegration analyses show long-run associations between trade liberalization policies and the renewable energy consumption indicators.",
+            "The Instrumental Variable Two-Stage Least Squares panel data estimator is employed to control for the endogeneity in the dataset.",
+            "The overall results broadly point towards the effectiveness of greater trade openness in facilitating renewable energy transition only in the low-income economies while prolonging the transition periods in the lower and upper-middle income countries.",
+            "The marginal impact of a rise in the trade openness index is estimated to enhance the renewable energy share in total energy consumption within low-income countries by 0.24% as opposed to lowering this share by 0.19% within lower-middle income economies.",
+            "However, trade liberalization is found to attribute to greater efficiency of renewable energy use across all the three income groups.",
+            "Thus, these findings have critically important policy implications for the respective governments."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.apenergy.2018.01.084.txt": {
+        "sdg": "10",
+        "sentences": [
+            "How do oil prices, macroeconomic factors and policies affect the market for renewable energy?",
+            "Abstract",
+            "The aim of this study is to determine the nature of any relationship between renewable energy investment, oil prices, GDP and the interest rate, using a time series approach.",
+            "We concentrate on three countries with different relationships with the renewable energy sector, with Norway and the UK being oil-exporters for most of the sample and the USA an importer.",
+            "Following estimation using a VAR model, the results provide evidence of considerable heterogeneity across the countries, with the USA and Norway having a strong relationship between oil prices and renewable energy and the UK no relationship.",
+            "These results reflect the fact that the USA is predominantly an oil-importer during most of this sample and supports renewable energy relatively less than the other countries, so changes to renewable energy investment reflect other factors in the market such as the price of substitutes to a greater extent than countries where renewable energy receives more government support.",
+            "Similarly with Norway, where due to its market orientated approach, there is some evidence of the macroeconomy affecting the renewable energy market.",
+            "The main policy implications from this study are that in countries where there is little support for the renewable energy sector, investment will be more dependent on macroeconomic aspects as well as substitutes such as oil, therefore the authorities will need to potentially increase financial support when oil prices are low or when the economy is in a downturn to ensure investment in RE continues at a constant level."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.apenergy.2020.115207.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Energy consumption and GDP revisited: A new panel data approach with wavelet decomposition",
+            "Abstract",
+            "This study combines panel data techniques with wavelet spectral analysis to investigate the complex and controversial relationship between energy consumption and GDP.",
+            "The approach in this study makes it possible to differentiate the relationship over time horizons, in addition to taking into account heterogeneity and dependence across cross-sectional units.",
+            "This leads to more precise conclusions for decision-making, overcoming the limited understanding that previous studies offer when considering aggregated data for a single time horizon.",
+            "Our analysis is applied to the 50 states of the U.S.A. for the period 1963 to 2017; it is then replicated for a broad set of 25 subgroups of states, based on geography, income, energy intensity, energy price and the predominant sector in the economy.",
+            "Results from the Dumitrescu-Hurlin causality test show that in the short-run, there is mixed evidence on the direction of causality between energy consumption and GDP, while in the medium- and long-run there is bidirectional causality for most of the subgroups.",
+            "Although there is a positive co-movement relationship between the cyclical components of these series, the existence and sign of a relationship in the very long run depends substantially on the characteristics of the states.",
+            "These findings provide important implications for the analysis, formulation and implementation of economic, energy and environmental policies."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.cie.2016.10.024.txt": {
+        "sdg": "10",
+        "sentences": [
+            "A multiple perspective modeling and simulation approach for renewable energy policy evaluation",
+            "Abstract",
+            "Environmental issues and dependence on fossil fuel sources including coal, oil, and natural gas, are the two most prevalent energy issues that are currently faced by the United States.",
+            "Incorporation of renewable energy sources, a non-economical option in electricity generation compared to conventional sources that burn fossil fuels, promises a viable solution for both of these issues single-handedly.",
+            "Several energy policies have concordantly been suggested to reduce the financial burden of adopting renewable energy technologies and make such technologies competitive with conventional sources throughout the US.",
+            "In this work, we present a novel simulation framework to help policymakers assess and evaluate policies from different perspectives of its stakeholders.",
+            "The proposed framework is composed of four modules: (1) a database which collates the economic, operational, and environmental data; (2) elucidation of policy which devises the policy for the simulation model; (3) a preliminary analysis which makes predictions for consumption, supply, and prices; and (4) a simulation model.",
+            "After the validity of the proposed framework is demonstrated, a series of planned Florida renewable energy policies are implemented into our framework as a case study.",
+            "The results obtained from the simulation and conclusions drawn on the assessment of current energy policies are presented with respect to the conflicting objectives of different stakeholders."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.cosrev.2020.100275.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Integrating blockchain technology into the energy sector \u2014 from theory of blockchain to research and application of energy blockchain",
+            "Abstract",
+            "Blockchain technology has been ushering in nothing short of a decentralized revolution.",
+            "Distributed/decentralized energy is recognized the best way to ensure energy sustainability in the future.",
+            "An open question is what promise the integration of blockchain and energy hold for energy future.",
+            "This paper systematically reviews the theory of blockchain and explores the current status of energy blockchain research and applications using a visual bibliometric analysis method and the Scopus database from 2014 to 2020.",
+            "The results show that the number of publications about blockchain technology in the energy sector have been skyrocketing, especially since 2018, which indicates the combining blockchain technology with energy sector is a new cross-cutting research area with increasing attention.",
+            "At the national level, developing countries begin to move to the world stage, catching up or even surpassing several traditional developed countries in the field of energy blockchain.",
+            "Cluster analysis results show that the existing energy blockchain research focuses on renewable energy, trying to solve the bottlenecks in its development process, and providing better solutions for the replacement of fossil energy by renewable energy.",
+            "We therefore contend that blockchain may be fueling the renewable energy and powering our energy sustainability.",
+            "Finally, the possible future development trend of energy blockchain is offered."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.egyr.2019.03.005.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Renewable energy consumption and economic growth nexus: A fresh evidence from West Africa",
+            "This paper estimates the impact of renewable energy on economic growth in West African countries using panel dynamic ordinary least squares (DOLS) by employing a sample of 15 West African countries covering the 1995-2014 period.",
+            "The results indicated that renewable energy consumption slows down economic growth in these countries.",
+            "This is attributed to the nature and source of renewable energy used in West Africa, which is majorly wood biomass.",
+            "The wood biomasses used in West Africa are usually unclean and highly polluting when burnt.",
+            "On the other hand, the use of clean energy sources like solar, wind and hydropower which does not have a side effect on human health and the environment is less in West Africa.",
+            "As such, renewable energy use can slow down economic growth by lowering productivity when unclean and inefficient sources are used.",
+            "The study recommends that (1) cleaner technologies should be employed to optimize the benefits of wood biomass as a renewable source of energy while minimizing its adverse effects; (2) the share of other renewable energy components such as solar, wind and geothermal should be increased in the renewable energy mix of the sub-region of West Africa and (3) greater commitment to achieving sustainable renewable energy by West African authorities is needed."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.enbuild.2019.07.030.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Optimal renewable energy supply choices for net-zero ready buildings: A life cycle thinking approach under uncertainty",
+            "Abstract",
+            "The increasing concerns about the environmental and economic impacts of conventional centralised energy generation and fossil fuel usage have prompted an interest in renewable-based decentralised energy systems.",
+            "Implementing such systems at building level can facilitate the development of net-zero energy buildings.",
+            "Energy system planning is a multi-faceted problem that involves technical, economic, environmental, and social dimensions, and affects multiple stakeholders at different levels.",
+            "A multi-objective optimisation approach is needed to identify the optimal energy choices at building level, while paying attention to stakeholder priorities and other constraints.",
+            "The objective of this study is to develop a model to identify the optimal mix of renewable energy (RE) while also accounting for uncertainties, which can be integrated at building level with life cycle thinking.",
+            "A framework was proposed for planning an optimised hybrid RE system at building level to support the net-zero development goals.",
+            "The optimisation model was developed considering the objectives of minimising energy system cost, maximising operational cost savings, minimising the life cycle environmental impacts, and maximising the RE fraction.",
+            "A combinatorial optimisation approach was adopted to reflect the practical engineering aspects of energy planning problems based on technologies available in the market.",
+            "The developed framework was demonstrated through a case study conducted for an average multi-unit residential buildings (MURB) located in British Columbia, Canada.",
+            "The results indicated that under the defined stakeholder priorities and constraints, ground source heat pumps and solar photovoltaics (PV) are the optimal energy choices for MURB, and the optimal energy system combination supplied 44% of the building's energy demand through RE.",
+            "The findings will inform and guide community developers and other stakeholders with an interest in residential buildings, on the most suitable clean energy options for their building project during the pre-project planning stage."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.enconman.2019.112027.txt": {
+        "sdg": "10",
+        "sentences": [
+            "A review on recent sizing methodologies of hybrid renewable energy systems",
+            "Abstract",
+            "On account of the continuously increasing electricity consumption and concern for environmental issues, renewable energy sources have been widely utilized to generate electricity, and they present advantages such as cleanness, easy availability, low cost, and abundance.",
+            "In 2017, the installed capacity of solar and wind power worldwide amounted to 903.1\u202fGW, which represented 41.4% of the total installed capacity of renewable energy.",
+            "Hybrid renewable energy systems have been proposed to overcome the variability and randomness of a single renewable energy source such as solar and wind power, and more than 80% of them are off-grid systems.",
+            "Meanwhile, it is necessary to determine the size of each component to design a reliable and cost-effective hybrid renewable energy system.",
+            "Therefore, this paper mainly reviews the recent classification, evaluation indicators, and sizing methodologies of hybrid renewable energy systems (stand-alone and grid-connected).",
+            "Further optimization research is still required to improve the overall performance of hybrid renewable energy systems.",
+            "Decision makers can explore and develop hybrid systems including hydropower and/or pumped hydro storage based on their superiority, and they should also pay attention to the development of hybrid energy storage.",
+            "In addition to reliability and economic indicators, which have applications above 80%, more attention should be payed to environmental and social indicators to determine the system capacity, and some new indicators should be disseminated.",
+            "The features of traditional, artificial intelligence, and hybrid methods, in additional to software tools, were assessed.",
+            "Moreover, hybrid methods with high accuracy and fast convergence that can surmount the defects of single methods are the most promising sizing method compared to the other three sizing methods.",
+            "This review is valuable to understand the current status and development trends of optimal sizing for hybrid renewable energy systems."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.eneco.2019.06.018.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Renewable energy consumption and industrial production: A disaggregated time-frequency analysis for the U.S.",
+            "This paper aims to analyze the interaction between renewable energy consumption and industrial production for the U.S. over the 1981\u20132018 period.",
+            "We contribute to the existing literature by the disaggregation of renewable energy sources (hydropower, geothermal, and biomass), by the consideration of time and frequency through wavelet techniques and the time-varying Granger causality test recently proposed by Shi et al.",
+            "(2018).",
+            "Based on monthly data, wavelet results show a positive co-movement between industrial production and biomass energy consumption at low frequencies, meaning in the long term only.",
+            "The bootstrap rolling-window Granger causality test indicates a bi-directional predictability between renewable energy consumption and industrial production in crisis and turmoil periods only.",
+            "These results are found to be robust to the inclusion of control variables (non-renewable energy consumption and crude oil prices) and to the selection of the lag length for the corresponding VAR model."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.eneco.2019.104541.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Governance and renewable energy investment in MENA countries:How does trade matter?",
+            "Abstract",
+            "The Middle East and North Africa (MENA) countries have recently developed renewable energy (RE) markets.",
+            "However, their rate of investment in renewable energy remains small compared to other regions in the world despite their relatively abundant endowments, particularly in wind and solar.",
+            "While the literature identifies some barriers to investment in renewable energy, we assume that the investment of MENA countries could be impeded by specific governance factors.",
+            "Furthermore, we consider recent literature showing that trade openness reduces the negative effects of weak governance.",
+            "In this paper, we empirically investigate the link between governance, openness, and renewable energy investment in the MENA region using panel data for 15 MENA countries over the period 1996-2013.",
+            "Our results prove that a higher institutional quality is associated with RE investment in MENA countries.",
+            "In addition, this relationship seems to be conditional on the trade regime.",
+            "Our results are robust to several measures of renewable energy investment and governance as well as to an alternative econometric set-up."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.eneco.2019.104564.txt": {
+        "sdg": "10",
+        "sentences": [
+            "The dynamic dependence of fossil energy, investor sentiment and renewable energy stock markets",
+            "Abstract",
+            "This study investigates the dynamic directional information spillover of return and volatility between the fossil energy market, investor sentiment towards renewable energy and the renewable energy stock market using the connectedness network approach.",
+            "Empirical results show that the spillover effects of the volatility system are generally stronger than that of the return system, which suggest that risk transmission among the markets is more obvious.",
+            "In both systems, the impact of the fossil energy market, especially crude oil, on the renewable energy stock market is greater than the impact of investor sentiment on the renewable energy stock market.",
+            "This finding shows that the renewable energy stock market is closely related to the fossil energy market.",
+            "Furthermore, the rolling window approach is adopted to examine the time-varying information spillover among them.",
+            "The dynamic findings suggest that investor sentiment towards renewable energy can explain the return and volatility of renewable energy stock to a certain degree."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.energy.2018.08.215.txt": {
+        "sdg": "10",
+        "sentences": [
+            "A novel renewable energy selection model for United Nations' sustainable development goals",
+            "Abstract",
+            "In 2015, the United Nations announced the new Sustainable Development Goals (SDGs) to safeguard the earth and end poverty as the new global sustainable development agenda.",
+            "One of these SDGs, Goal #7, is about affordable and clean energy.",
+            "Despite the importance, there are few tools that guide policy-makers in aligning their domestic policies with these SDGs.",
+            "The paper addresses this research gap and introduces a numerical decision-support method for identifying the most suitable renewable energy source (RES).",
+            "RES selection according to SDGs can be a challenge for decision makers.",
+            "This article presents an integrated multi-criteria decision-making (MCDM) method that is based on hesitant fuzzy linguistic (HFL) term set.",
+            "The decision criteria are weighed with HFL Analytic Hierarchy Process (AHP), and the most appropriate RES alternative is chosen with the HFL COmplex PRoportional ASsessment (COPRAS) technique.",
+            "The value of the method is demonstrated on a case from Turkey, and a comparative analysis.",
+            "This approach constitutes a novelty by proposing a numerical model for SDGs that combines AHP and COPRAS in a HFL environment with group decision-making for the first time.",
+            "The method can help policy-makers in better structuring local energy policies with regard to global efforts in a developing country setting."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.energy.2019.02.114.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Renewable and non-renewable categories of energy consumption and trade: Do the development degree and the industrialization degree matter?",
+            "The current study discusses the linear and non-linear relationship between trade, and non-renewable and renewable energy consumption using data of 72 countries extending from 1990 to 2012.",
+            "Our empirical models integrate some additional variables which affect the above-mentioned relationship such as GDP, CO2 emissions, domestic resources abundance, and some interaction terms.",
+            "The innovation of the paper is not only to compare between developed and developing countries but also between industrialized countries and non-industrialized ones by integrating some dummy variables into the models.",
+            "The empirical results demonstrate that trade and energy consumption (renewable or non-renewable) have a mutually reinforcing linear relationship.",
+            "Moreover, the validity of non-linear relationships is accepted only in the case of the impact of non-renewable on trade.",
+            "This latter follows an inverted U-shape form in the case of developed and industrialized countries while a U-Shape one in the case of developing and non-industrialized countries.",
+            "In addition, the findings indicate a positive contribution of GDP, capital, and labor on trade and energy consumption.",
+            "However, CO2 emissions and natural resource have positive impacts on trade and non-renewable energy while negative effect on renewable energy.",
+            "It implies that policy makers should develop appropriate policies to profit from trade and energy consumption."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.energy.2019.116132.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Effect of increased building-integrated renewable energy on building energy portfolio and energy flows in an urban district of Korea",
+            "Abstract",
+            "Renewable energy sources such as solar panels with energy storage, ground-source heat pumps, and fuel cells are increasingly being integrated into buildings to improve their sustainability.",
+            "This paper investigates, for an urban area, the effects of building-integrated renewable energy on the building energy portfolio and electricity & gas flows from the grid.",
+            "In this study, 403 apartment buildings and 269 non-residential buildings (with a floor area over 500\u202fm2) in a district of Seoul, Korea, are assumed to integrate renewable energy sources to satisfy the renewable energy requirements of 10% and 30% of the total energy demand, respectively.",
+            "The optimal renewable energy system for each building has been obtained via Linear Programming.",
+            "The optimization has been carried out based on the hourly electricity, heating, and cooling loads of every building over a 1-year period.",
+            "The energy loads, in turn, have been derived from the monthly electricity and gas usage data for every building.",
+            "The renewable energy portfolio for the apartment buildings consists of photovoltaics, fuel cells, and solar water heaters.",
+            "About 74% of the renewable energy for apartment buildings is provided by photovoltaics.",
+            "The renewable energy portfolio for the non-residential buildings consists of ground-source heat pumps and photovoltaics.",
+            "About 71% of the renewable energy is provided by the ground-source heat pumps.",
+            "Consequently, total electricity and gas supply from the grid to all of the buildings in the district decrease by 17% and 3%, respectively.",
+            "The photovoltaics induce a large variation in power flow from the grid during the daytime (i.e., the so-called Duck curve).",
+            "The annual peak power occurs in the winter mornings because electricity powered heating by ground-source heat pumps replaces gas heating, and maximum heat demand occurs in winter mornings."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.energy.2020.117952.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Energy consumption and heating costs for a detached house over a 12-year period \u2013 Renewable fuels versus fossil fuels",
+            "Currently, 57.4% of the European Union (EU-28) population live in houses which usually need separate boilers to generate thermal energy.",
+            "The research presented in this paper pertained to a detached house in the north-east of Poland, in which thermal energy was generated over 12 consecutive years by burning wood briquettes.",
+            "This study analysed the quality and quantity of wood briquettes, energy consumption and cost of thermal energy generation for the house with the use of an automatic biomass burning unit, compared with other types of fuels.",
+            "The annual consumption of briquette energy was 124.5\u202fGJ\u202fyear\u22121.",
+            "The average annual cost of thermal energy generation for a house was 739 \u20ac year\u22121.",
+            "When the cost of the boiler purchase and its service and fuel purchase costs were taken into account, the 12-year operating cost for a briquette-fired boiler was found to be similar to the operation cost for a coal-fired boiler and higher by 21% compared to willow chips-fired boiler.",
+            "The operation of a boiler fired with other fuels, like pellets, natural gas or heating oil during the same period was more expensive by 39%, 46% and 157%, respectively."
+        ],
+        "labels": [
+            "NONE",
+            "CLAIM",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "NONE",
+            "NONE"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.energy.2020.118264.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Least cost energy system pathways towards 100% renewable energy in Ireland by 2050",
+            "Studies focusing on 100% renewable energy systems have emerged in recent years; however, existing studies tend to focus only on the power sector using exploratory approaches.",
+            "This paper therefore undertakes a whole-system approach and explores optimal pathways towards 100% renewable energy by 2050.",
+            "The analysis is carried out for Ireland, which currently has the highest share of variable renewable electricity on a synchronous power system.",
+            "Large numbers of scenarios are developed using the Irish TIMES model to address uncertainties.",
+            "Results show that compared to decarbonization targets, focusing on renewable penetration without considering carbon capture options is significantly less cost effective in carbon mitigation.",
+            "Alternative assumptions on bioenergy imports and maximum variability in power generation lead to very different energy mixes in bioenergy and electrification levels.",
+            "All pathways suggest that indigenous bioenergy needs to be fully exploited and the current annual deployment rate of renewable electricity needs a boost.",
+            "Pathways relying on international bioenergy imports are slightly cheaper and faces less economic and technical challenges.",
+            "However, given the large future uncertainties, it is recommended that further policy considerations be given to pathways with high electrification levels as they are more robust towards uncertainties."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.enpol.2018.12.050.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Why Ghana will not achieve its renewable energy target for electricity.",
+            "Policy, legal and regulatory implications",
+            "Abstract",
+            "The Republic of Ghana aims to develop and utilise renewable energy and energy efficiency technologies to achieve a 10% penetration of national electricity production by 2020.",
+            "The government also aims to achieve a 100% national electrification with renewable energy identified as the catalyst for achieving this policy goal.",
+            "The situation however is, as of December 2017, Ghana has been able to achieve a 0.5% penetration rate of electricity from renewable energy sources in its total generation mix.",
+            "This paper argues that Ghana is unable to reach its renewable energy target of 10% by 2020 given that it needs to integrate 9.5% of renewables from 2018 to 2020 whiles it has only been able to achieve 0.5% penetration rate since 2006.",
+            "Legal and regulatory issues such as lack of legislative instruments by regulatory agencies incumbent upon achieving the renewable energy policy target, lack of independence of institution structure and the lack of regulatory assessment are some of the key reasons behind this argument.",
+            "The implication of these issues is that, investors lose confidence in the government's ability to maintain and achieve both current and future renewable energy policy goals.",
+            "Investors become uncertain and this leads to underinvestment in renewable projects and subsequently, failure in achieving renewable energy targets."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.enpol.2019.06.040.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Renewable energy consumption in EU-28 countries: Policy toward pollution mitigation and economic sustainability",
+            "A major challenge facing humans in the 21st century is how to strike a balance between the mitigation of environmental degradation and the achievement of sustainable economic growth.",
+            "On this note, this investigation applies an autoregressive distributed lag (ARDL) methodology to a panel data of 28 European Union (EU-28) countries over the period 1995\u20132015.",
+            "The study confirms the existence of positive and significant long-run nexus among environmental sustainability, renewable energy consumption and economic growth in the EU-28 countries.",
+            "In addition, empirical results indicate that real gross fixed capital formation, carbon emissions and other environmental factors are principal determinants of long-run growth in the EU.",
+            "Using Dumitrescu and Hurlin (2012) Granger non-causality in heterogeneous panel, results show long-run bidirectional causal relationships among renewable energy consumption, economic growth and other growth determinants.",
+            "Based on these results, we infer that the exploitation of renewable energy sources in the EU-28 countries is a reliable pathway toward environmental pollution mitigation.",
+            "Consequently, achieving sustainable development goals (SDGs) by the year 2030 through renewable energy consumption and carbon emission mitigation is very much achievable in the EU-28 countries, and should also be adopted by all countries as an effective global policy."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.enpol.2019.110881.txt": {
+        "sdg": "10",
+        "sentences": [
+            "The dismantling of renewable energy policies: The cases of Spain and the Czech Republic",
+            "Abstract",
+            "Despite their increasing cost competitiveness, the continued expansion of renewable energy remains dependent on policy support.",
+            "Moreover, the dismantling of renewable energy policies in a number of former pioneer countries indicates that continued policy support is not a foregone conclusion.",
+            "Yet, in light of the accelerating expansion of renewable energy, the dismantling of renewable energy policies has captured comparatively less attention than the rapid spread of support schemes.",
+            "This article seeks to fill this important knowledge gap by developing and testing a framework for the analysis of policy dismantling processes in the renewable energy sector.",
+            "It applies the framework to conduct a comparative analysis of policy dismantling in Spain and the Czech Republic.",
+            "Both countries represent European pioneers of renewable energy support who subsequently dismantled their policies.",
+            "The paper finds that the inter-relationship between policy design and the broader configuration of the political economy in the energy sector are key for understanding dismantling processes.",
+            "It offers a number of conclusions for the design of more robust renewable energy support policies."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "CLAIM",
+            "NONE"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.enpol.2019.111067.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Storage cost induced by a large substitution of nuclear by intermittent renewable energies: The French case",
+            "Abstract",
+            "This paper explains some adverse effects due to a massive injection of renewables when electricity storage is not available, such as a fall of electricity prices on the spot market or a crowding-out effect for nuclear power stations due to the merit order logic.",
+            "From the French experience, it presents a model that calculates the additional cost of electricity production when the share of nuclear generation is reduced to 50% instead of 72% today and when, in compensation, renewable energy (wind and solar) is stored either by batteries or by power-to-gas.",
+            "The simulations minimize the cost of the energy mix by optimizing the electricity storage mix: batteries (daily storage) and Power-to-Gas/Gas-to-Power (seasonal storage).",
+            "The paper also estimates the negative externalities of intermittent renewable energies that lie in between 44 and 107 \u20ac/MWh.",
+            "It also examines the impact on the merit order when those negative externalities are accounted for.",
+            "Finally, the simulation results lead us to provide some recommendations concerning R&D electricity storage policy and electricity mix fine tuning."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.enpol.2020.111284.txt": {
+        "sdg": "10",
+        "sentences": [
+            "A comprehensive indicator set for measuring multiple benefits of energy efficiency",
+            "Abstract",
+            "In this paper, we develop a quantitative indicator approach including 20 indicators to measure the multiple benefits of energy efficiency (MB-EE).",
+            "The MB-EEs are classified into three groups: environmental (e.g.",
+            "energy savings, emissions), economic (e.g.",
+            "GDP, employment), and social (health, energy poverty) aspects.",
+            "We explain the methodological approach, the underlying data sources and limitations.",
+            "The indicator set has been applied to 29 countries (EU28 plus Norway) for the period 2000 to 2015, proving that it allows to conduct in-depth comparisons of developments and differences across Europe.",
+            "The indicator set also supports the design of well-suited energy policies by allowing to take into account, on an informed basis, more of the multiple impacts of energy efficiency.",
+            "For example, our analysis of the effect of energy savings for the period 2000 to 2015 in Germany shows GHG savings of about 158 MtCO2eq., about 30,000 avoided deaths due to less air pollution, a reduction of Germany's import dependency by 5.8 percentage points and a growth of GDP by around 0.3% per year for the period 2010 to 2015) as a consequence of improved energy efficiency.",
+            "To conclude, the presented approach allows to comprehensively and regularly assess policies in terms of their MB-EEs."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.enpol.2020.111304.txt": {
+        "sdg": "10",
+        "sentences": [
+            "The energy metabolism of countries: Energy efficiency and use in the period that followed the global financial crisis",
+            "Abstract",
+            "This paper discusses how the deceleration of economic growth, that followed the financial crisis of 2008, influenced the energy efficiency, allocation and use of 18 European countries.",
+            "By using a Multi-scale Integrated Analysis of Societal and Ecosystem Metabolism (MuSIASEM), the relationships between energy requirements, economic trends and population are investigated for the years 2008 and 2015.",
+            "The analyses are performed for the entire society (Level N), for the household and the paid sectors (Level N-1) and for the agricultural, the industrial and the service activities (Level N-2).",
+            "Results show that two main groups of countries performed the largest energy reductions, namely: the country most affected by the global financial crisis, such as Greece, Romania and Spain, where the total energy throughput decreased by \u221219.6%, \u221215.8% and \u221212.1%, respectively; and the countries, such as Ireland and United Kingdom, that experienced the largest energy intensity reductions (\u221238.7% and \u221219.2%), together with the highest GDP increases (+44.8% and +10.2%).",
+            "By providing an overview of the relationships existing between socio-economic and energy variables, this paper contributes to the debate around growth and efficiency and can support the design of policies oriented to promote the achievement of a more sustainable and competitive economy."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.erss.2019.101243.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Keep quiet on climate: Assessing public response to seven renewable energy frames in the Western United States",
+            "Abstract",
+            "Support for renewable energy is often solicited by leveraging concern about environmental problems such as climate change.",
+            "However, the environment \u2013 and especially climate change \u2013 is hyper-polarized amongst the American public, and non-environmental justifications for renewable energy may resonate more broadly.",
+            "Using a 2016 mail survey of individuals living in five states in the Rocky Mountain region of the U.S., we examine predictors of public approval of renewable energy usage, approval of a 20% renewable portfolio standard policy, and agreement with seven frames for renewable energy, of which four referenced the environment and three did not.",
+            "We build upon previous research by analyzing geographic variation in frame agreement and by testing a religious environmental stewardship and resource-conservation frame.",
+            "Results indicate high approval renewable energy but mixed support for the policy measure.",
+            "Respondents on average agreed with all seven renewable energy frames, with energy security and energy diversification receiving the most support.",
+            "Of the four environmental frames, air pollution and resource conservation had the most support, and the religion and climate frames had the least.",
+            "We note variation by state, particularly on support for the policy measure.",
+            "Political ideology and belief in human-caused global warming were consistent predictors, though gender, residence in a metro county, neoliberal ideology, and state of residence were also important.",
+            "Overall, our results echo other research indicating that non-climate-based frames for renewable energy are likely to garner broader public support, but we suggest that the significance of this finding is particularly important in certain political and geographical contexts."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.jclepro.2016.05.056.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Green public procurement as an initiative for sustainable consumption.",
+            "An exploratory study of Spanish public universities",
+            "Green public procurement has been considered an important policy instrument on the path toward realizing sustainable consumption and production.",
+            "Additionally, universities are important to the promotion of sustainable consumption through their positive effects on students and other stakeholders.",
+            "This paper analyses the contribution of universities to sustainable consumption through Green Public Procurement initiatives, from both external and internal perspectives.",
+            "From an external perspective, how universities express their \u201cgreen\u201d image outwardly has been analysed.",
+            "The results show that 21.5% universities have put into practice different initiatives related to green procurement (having a public procurement manual), and 72.5% of them have a department in charge of environmental subjects.",
+            "From an internal perspective, how universities currently position themselves in terms of green procurement policies has been analysed.",
+            "The results reveal that universities generally include environmental criteria in the public procurement contract specifications and that they regularly organise awareness and media campaigns.",
+            "The results reflect the perceptions of people in charge of promoting green initiatives inside the universities; however, they may or may not be involved in their institution's mission.",
+            "The value of this paper lies in its contribution to the knowledge of how initiatives implemented at higher education institutions can contribute to sustainable consumption using theoretical and practical approaches.",
+            "The biggest obstacle was the difficulty in locating the different initiatives at universities' websites and also in the lack of uniformity for the comparison, dissemination and communication of environment-related activities.",
+            "The conclusions show that green public procurement is a relatively new activity in Spain, especially in relation to sustainable consumption; however, it needs to be studied thoroughly because it can prompt policymakers to increase green practices through the adoption of measures that actually contribute to sustainable consumption."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.jclepro.2019.06.163.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Renewable energy (electricity) development in Ghana: Observations, concerns, substitution possibilities, and implications for the economy.",
+            "Abstract",
+            "Can Ghana build its economy on renewable energy?",
+            "Is it possible to substitute nonrenewable for renewable energy?",
+            "What is the impact of renewable energy on the economy of Ghana?",
+            "These questions are relevant and worth considering as far as the renewable energy development agenda in Ghana is concern.",
+            "Using the translog production function approach, this study primarily investigates whether Ghana can move away from nonrenewable electricity generation to renewable power generation.",
+            "In particular, we provide estimates for the relationship between the two energy types and output.",
+            "The estimates are then used to calculate the output and substitution elasticities between renewable and nonrenewable energy.",
+            "Our findings show that while the impact of nonrenewable energy on Ghana's economy is negative, that of renewable energy is insignificant, with output elasticities for both energy types averaging \u22120.139 and 1.875 respectively.",
+            "Even though substitution elasticity suggests the possibility of moving towards a renewable power generation system, this study also highlights the limitations associated with such transition, citing inherent problems such as scale, cost, and location.",
+            "Based on the analysis done in the context of the findings, this study recommends a policy that supports an optimal energy matrix with both renewable and nonrenewable sources."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.jclepro.2019.07.069.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Renewable energy, carbon emission and economic growth: A revised environmental Kuznets Curve perspective",
+            "Abstract",
+            "Renewable energy plays an important role in reducing global carbon (CO2) emission.",
+            "This paper builds a RER (renewable energy consumption rate) index to represent the energy structure of a country and proposes a U-shaped RKC (renewable energy Kuznets Curve) hypothesis between RER and economic growth.",
+            "We also examine the dynamic relationship between RER and the Environmental Kuznets Curve (EKC) hypothesis using two panel data sets of 17 major developing and developed countries as well as six geo-economic regions of the world during 1990\u20132014.",
+            "Panel co-integration tests indicate that a long-run relationship exists among economic growth, RER and carbon emission.",
+            "We employ the fully modified ordinary least squares (FMOLS) and the dynamic ordinary least squares (DOLS) techniques to estimate the co-integration coefficients of the panels and individual countries/regions respectively.",
+            "The results verify both the EKC and RKC hypotheses, indicating that a 10% rise in RER would to a 1.6% carbon emission reduction.",
+            "It is also found that the RKC turning points of individual countries and the entire samples in general take place before the turning points of the respective EKCs.",
+            "It suggests that promoting renewable energy consumption to make RKC cross its turning point earlier can accelerate EKC to reach its turning point more quickly.",
+            "This finding has important policy implications with respect to the development and utilization of renewable energy and environmental protection."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.jclepro.2019.118338.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Asymmetric and extreme influence of energy price changes on renewable energy stock performance",
+            "Abstract",
+            "Promoting the development of renewable energy has become the key factor to solve the problems of energy and climate change issues.",
+            "However, its development is largely constrained by the prices of traditional fossil energy.",
+            "This paper explores the influence of various fossil energy price changes on renewable energy stock returns using a network approach.",
+            "Specifically, a positive and negative returns network and value-at-risk (VaR) network are constructed separately for identifying the asymmetric and extreme information spillover.",
+            "Our findings show the fossil energy\u2013renewable energy network system has a relatively high level of interdependence.",
+            "The electricity market behaves as the major contributor to the changes of renewable energy returns in the returns connectedness network, while oil and coal contribute most to the changes of renewable energy returns in the VaR connectedness network.",
+            "The dynamic results show that the contributions of fossil energy price changes to renewable energy returns have strong time-varying pattern with high volatility over time.",
+            "The total connectedness in the positive returns network is slightly stronger than that in the negative returns network for most of the time during our sample period."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM",
+            "EVIDENCE",
+            "NONE",
+            "NONE"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.jclepro.2020.121186.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Slow diffusion of renewable energy technologies in China: An empirical analysis from the perspective of innovation system",
+            "Renewable energy is particularly important for achieving energy security and emission reduction targets.",
+            "However, China\u2019s renewable energy technologies are still diffusing slowly.",
+            "Based on the two-part model and the fixed-effect Tobit model, this paper investigates the factors affecting the diffusion of renewable energy technologies in 28 provinces in China between 2006 and 2017 from the perspective of an innovation system.",
+            "It is found that increasing the renewable energy tariff surcharge subsidy, the share of relevant employees, and grid density will drive the diffusion of renewable energy technologies.",
+            "Reducing the share of coal consumption will increase the probability of adoption of renewable energy technologies.",
+            "Furthermore, a certain province\u2019s or other provinces\u2019 renewable energy technology patent stocks both provide the knowledge infrastructure for the increase in the share of renewable energy generation.",
+            "In contrast, the crowding-out effect of foreign direct investment will hinder the expansion of renewable energy generation share.",
+            "Therefore, the failures in the six aspects of institutional design, market structure, personnel factor, external interaction, knowledge infrastructure, and physical infrastructure, will lead to the slow diffusion of renewable energy technologies."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.jclepro.2020.121262.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Foreign direct investment and renewable energy in climate change mitigation: Does governance matter?",
+            "Climate change mitigation is a topical issue with growing debate in the context of the renewable energy transition, global partnership, governance, and economic growth.",
+            "The complexness of climate change makes it difficult to predict relationships and formulate policies across varied countries.",
+            "Motivated by the core mandate of the Kyoto Protocol, we examined the individual, combined and interactive impact of growth in income, renewable energy, foreign direct investment, and governance on greenhouse gas emissions.",
+            "We decomposed the relationships to account for the theories of scale effect, composition effect and technique effect.",
+            "The study utilized a dynamic heterogeneous estimation technique with a panel data from 1990 to 2017 in 47 Sub-Saharan African countries.",
+            "Our adopted empirical framework made it possible to account for heterogeneity, a situation that may be prevalent in countries with varied economic and environmental policies.",
+            "The empirical results revealed that increasing the share of renewable energy by 1% declines greenhouse gas emissions by as much as 35.32% (95% Confidence interval) while a 1% increase in the coupling effect of income level, governance, and renewable energy consumption intensifies climate change by 0.79%.",
+            "The interactive effects of scale, composition, and technique indicators were found to worsen climate change.",
+            "The decoupling effect revealed that while foreign direct investment, income level, and governance exacerbate climate change, renewable energy consumption lessens climate change and its impact.",
+            "From a policy perspective, the magnitude of the technique effect of renewable energy consumption depends on, inter alia, its share in the energy portfolio, technological innovation, and country-specific policy instruments.",
+            "The study demonstrated that decoupling renewable energy from economic growth propels the transition from fossil fuels, leading to energy efficiency\u2014 explaining the decline in GHG emissions."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.jrurstud.2019.10.014.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Rural innovation system: Revitalize the countryside for a sustainable development",
+            "Abstract",
+            "A world with large disparities in development between rural and urban areas could never achieve sustainable development goals (SDGs).",
+            "Issues related to agriculture, rural areas, and farmers are fundamental to the stability and people's welfare of China as well as other developing countries.",
+            "Despite the growing demand and national initiative for rural revitalization, rural innovation has received little attention in the innovation literature.",
+            "Drawing from the new growth theory, institutional theory and innovation system theory, this paper proposes the rural innovation system, which is a complex socioeconomic network that aims to revitalize the countryside and achieve balanced and sustainable development.",
+            "This paper compares the rural and urban innovation system, introduces a theoretical structural model of the rural innovation system, including a) technology innovation, b) institutional and management innovation, and c) community-based network and intermediary platform innovation.",
+            "Then it outlines the future challenges in fostering a strong rural innovation system.",
+            "The rural innovation system proposed makes direct contributions to the literature of rural studies, innovation system, and public policy, and offers both China and the world a new perspective for realizing rural revitalization, anti-poverty and global sustainable development."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.marpol.2020.103935.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Towards sustainable small-scale fisheries in China: A case study of Hainan",
+            "Abstract",
+            "China is one of the most important marine fishery countries, yet little is known about its small-scale fisheries (SSFs).",
+            "This paper uses Hainan Province of China as a case study to examine the present situation, predicaments, and future changes of the country's SSFs during a process of transition from extensive to green development.",
+            "In doing so, we follow the social-ecological system (SES) framework to present Hainan's SSF-related settings, and study its resource systems, governance systems and actors through reviewing national and local policies, surveying and interviewing SSF stakeholders.",
+            "Marine fisheries in Hainan is SSF-dominated, experienced dramatic increase in terms of yield and jobs since 1978, and became the main source of most fishermen's livelihood.",
+            "Fish community structure and fishing targets have shifted from a mix of large-bodied demersals and pelagics to smaller-bodied pelagics with high growth rates and fecundity levels.",
+            "This degradation puts stress on China's central and local governments to enhance the preservation of marine ecosystems.",
+            "Effort controls failed to reduce fishing power due to subsidies, a series of measures were introduced in 2015 to correct these problems, including obligatory targets with accountability, subsidy reductions, buyback program, and further reductions of fishing vessels and allowable catch implemented in 2017.",
+            "Hainan has explored different development directions for SSFs.",
+            "First, providing policies and funds to reduce small fishing boats and construct larger vessels to support offshore and distant-water fisheries.",
+            "Second, enhancing fishery value by integrating the development of fishery-related primary, secondary, and tertiary industries.",
+            "Third, developing existing SSFs in a sustainable manner through standardizing SSF vessel types, delineating operating areas, developing fishing port economy, and building beautiful fishing villages.",
+            "These practices illustrate that China's centralized government can likely command transformational changes in ecological and socio-economic outcomes according to policy objectives.",
+            "Also, a broadened perspective that considers the ecological, social, and economic dimensions of SSFs as whole is also crucial.",
+            "Moreover, the integration of fishery policies with other related socioeconomic policies, and the interdepartmental cooperation is needed to achieve policy consistency across local governments."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE",
+            "NONE"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.procir.2019.02.134.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Public procurement of reconditioned furniture and the potential transition to product service systems solutions",
+            "The transition to a circular economy requires the development of new business models.",
+            "However, \u2018circular\u2019 businesses face a number of barriers when competing in the current \u2018linear\u2019 economy, and may require the support of public policies.",
+            "Public procurement may be applied for this purpose, as it can support emerging markets for reconditioned and remanufactured products.",
+            "Public procurement can also support durable and upgradable products through functional procurement and leasing solutions, thereby promoting product-service systems (PSSs).",
+            "One product category of high relevance is office furniture, as the purchasing of reconditioned furniture can implicate both environmental and monetary savings for contracting authorities.",
+            "This study investigates the potential of public procurement to increase the volumes of reconditioned furniture in Sweden and identifies the main drivers and barriers for increasing such practices.",
+            "The main data collection strategy was semi-structured interviews with furniture reconditioners and public procurement officers.",
+            "The potential for supporting PSSs through furniture leasing was also analyzed.",
+            "The main conclusions are that there is significant potential to support furniture reconditioning and PSS solutions through public procurement, especially through the establishment of larger framework contracts and involving furniture manufacturers, but several barriers need to be overcome.",
+            "Primarily, training and education of public procurers and updating of procurement criteria can facilitate the introduction of reconditioned furniture in purchasing considerations.",
+            "Moreover, the sector needs to improve its visibility, marketing, and cooperation with public authorities.",
+            "Finally, functional procurement through PSSs seems unlikely, as it is still quite unclear how the procuring authorities can process the associated contract requirements."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "CLAIM",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.pursup.2018.05.001.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Does Green Public Procurement lead to Life Cycle Costing (LCC) adoption?",
+            "Life Cycle Costing (LCC) is rarely used in public procurement and public institutions have yet to fully understand its potential value for sustainable procurement.",
+            "The new European Directive on Public Procurement is, however, designed to position LCC as central to sustainable sourcing.",
+            "Although previous studies have identified positive correlations between Green Public Procurement Policies (GPP) and LCC, it is still unclear how public institutions can further adopt LCC practices by leveraging their experience of green sourcing.",
+            "In this study an organizational learning theoretical perspective is taken to investigate the circumstances under which public administrations\u2019 experience of GPP \u2013 considered as a way of integrating the dimension of environmental sustainability into the sourcing process \u2013 stimulates their LCC learning and capabilities \u2013 considered as a way to include the sustainability economic dimension.",
+            "The goal is to understand if the adoption of GPP can stimulate the internalisation of LCC in public tenders.",
+            "A multinomial logistic regression was conducted using a sample of 120 public administrations located in different countries.",
+            "The results show that experience of GPP stimulates the internalisation of LCC at a public level, but only under specific conditions.",
+            "The study contributes to the Sustainable Supply Management literature, being one of the first studies in the field adopting an organizational learning theoretical lens to review the role of experience as significant opportunity to develop capabilities.",
+            "It also contributes to the organizational learning theory, by confirming that experience can aid learning but only in specific environmental contexts."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.renene.2018.08.069.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Renewable energy consumption, carbon emissions, and development stages: Some evidence from panel cointegration analysis",
+            "Renewable energy consumption has been promoted to mitigate climate change problems under various schemes, such as the Kyoto Protocol and the Paris Agreement.",
+            "A country's choice of energy resources depends on the balancing of economic growth and environmental degradation, which will be closely related to its development stage.",
+            "This study examines how the relationship between renewable energy consumption and carbon emissions is associated with the development stage by applying a panel cointegration analysis to 107 countries during the period from 1990 to 2013.",
+            "The analysis shows the clear differences between the groups of low- and high-income countries.",
+            "For low-income countries, renewable energy consumption is positively and negatively associated with carbon emissions and output, respectively.",
+            "However, for high-income countries, renewable energy consumption is negatively and positively associated with carbon emissions and output, respectively.",
+            "These results have important implications for policymakers, since the discrepancies in these relationships mean that a country's renewable energy policies should be highly compatible with its development stage."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.renene.2019.05.032.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Carbon emissions across the spectrum of renewable and nonrenewable energy use in developing economies of Asia",
+            "Abstract",
+            "The present study explores the impacts of renewable and non-renewable energy use and economic growth on carbon emissions in the developing Asian economies.",
+            "The study adopts a robust version of two-step system Generalized Method of Moments (GMM) on a panel of twenty-five upper-middle and lower-middle income economies for the period 1990 to 2015.",
+            "The results show that the use of renewable energy helps in the control of carbon emissions, while the consumption of non-renewable energy contributes to the increase of carbon emissions in the developing Asian economies.",
+            "Moreover, the results confirm inverted U-shaped relationship between per capita economic growth and carbon emissions in this region.",
+            "Empirical results further depict that in developing countries, depletion of natural resources and growing population pressures are both contributing factors to carbon emissions.",
+            "The findings spotlight that a transition from non-renewable to renewable energy sources is indispensable if Asian developing countries are to control carbon emissions and foster carbon-free economic growth.",
+            "Finally, the study suggests that regional cooperation (to expedite the transition from non-renewable to renewable energy sources, and to facilitate the expansion of green bond markets to developing countries) may prove helpful for mitigating carbon emissions and for increasing investment in clean energy projects."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.renene.2019.06.170.txt": {
+        "sdg": "10",
+        "sentences": [
+            "An empirical research on the relationship amongst renewable energy consumption, economic growth and foreign direct investment in China",
+            "China's economy has flourished since reform and opening up.",
+            "At the same time, China's ability to attract foreign investment in the world continued to increase.",
+            "However, with the rapid development of the economy, China's energy crisis and environmental pollution have been continuously deepened, exposing increasingly serious problems in the energy consumption structure.",
+            "As a critical mean to address the environmental problems and achieve sustainable development, the production and utilization of renewable energy resources is particularly critical.",
+            "This paper aims to investigate the relationship amongst renewable energy consumption, foreign direct investment and gross domestic product in 31 Chinese provinces from 2000 to 2015.",
+            "Specifically, the unit root test, cointegration test, vector error-correction model, impulse response function analysis, and Granger causality test are employed for the estimations.",
+            "The empirical results indicate that there is a long-term and stable equilibrium relationship between gross domestic product per capita, foreign direct investment per capita, and renewable energy consumption per capita.",
+            "Additionally, in the short term, foreign direct investment cannot significantly cause renewable energy consumption change; but in the long run, a modest slowdown in gross domestic product growth and targeted foreign direct investment will generate a significant boost on renewable energy in China."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.renene.2019.11.091.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Analysis of the renewable energy implementation and prediction prospects in compliance with the EU policy: A case of Lithuania",
+            "The article analyses the renewable energy implementation and prediction prospects examining the case of Lithuania.",
+            "This paper presents the achieved results obtained by implementing the targets of National Energy Independence Strategy and requirements of the EU directives for EU Member States.",
+            "It was disclosed that over the last 5 years, the share of renewable energy sources (RES) in gross inland fuel and energy consumption in Lithuania increased about 1.3 times.",
+            "Gross domestic product (GDP) grew annually on average 3.2%.",
+            "Country\u2019s GDP increased about 1.3 times and gross inland and final fuel and energy consumption \u2013 about 10\u201312%.",
+            "The largest share of RES in Lithuania came from solid biofuels \u2013 80.6% in 2017.",
+            "For the last 5 years, wind energy production increased about 2.5 times and biogas energy consumption \u2013 about 2.8 times.",
+            "Total emissions of greenhouse gasses decreased by 3% and air pollutants by 23%.",
+            "Lithuania has set targets to increase RES share in the final energy consumption up to 30% by 2020, 45% by 2030 and 80% by 2050 years.",
+            "The analysis identified the most promising directions for sustainable energy development and their environmental impact.",
+            "That is also suitable for use in other countries, in order to provide local energy resources."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM",
+            "NONE"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.renene.2020.05.131.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Energy storage and multi energy systems in local energy communities with high renewable energy penetration",
+            "This study investigates how a district with a high capacity of non-controllable renewable electricity generation can entirely self-consume its production at a community level either directly or for heating and cooling, thus potentially fulfilling the concept of \"Renewable Energy Community\".",
+            "It investigates the potential role of storage systems and polygeneration in renewables self-consumption, by also exploiting the synergies among different energy networks in a real residential district with high PV penetration.",
+            "Two scenarios were modeled other than the \"baseline\": the first one evaluating the optimal portfolio of energy conversion and storage technologies, and a second one achieving the same goal only using batteries.",
+            "Both scenarios proved to be a viable solution to exploit the excess of electricity production from the PV plants in the district only through local self-consumption.",
+            "The results show that a multi-energy system is the most cost-effective solution in doing so, exploiting polygeneration technologies (CHP) and the storage of energy as thermal, electrical, and chemical through power-to-gas.",
+            "In particular, the least cost solution entails a 42 kWe CHP micro gas engine fueled by a natural gas-hydrogen blend, a 135 kWh battery system, and a 2830 kWh hydrogen storage."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.renene.2020.06.134.txt": {
+        "sdg": "10",
+        "sentences": [
+            "China's renewable energy trade potential in the \"Belt-and-Road\" countries: A gravity model analysis",
+            "The trade ties between China and the \"Belt-and-Road\" Countries have been developing rapidly since the \"Belt-and-Road Initiative\" was proposed in 2013.",
+            "Understanding the potential of renewable energy trade products in this region is of great significance for the renewable energy industry.",
+            "By adopting the gravity model and data of 81 products from 2007 to 2017 across 66 countries, empirical evidence was examined of China's renewable energy product trade potential in the \u201cBelt and Road\u201d countries.",
+            "The results indicated that: (1) The gross domestic product (GDP) of the \u201cBelt and Road\u201d countries and the total energy consumption of two trading parties were the main factors affecting China's export of renewable energy products; (2) Among the 65 countries along the \u201cBelt and Road\u201d, China had great potentials for exporting renewable energy products in 26 countries, and most of them were in the CIS, Central and Eastern Europe, West Asia, South Asia and Central Asia; and (3) China's trade potentials for renewable energy products had increased year by year during the study period in the 16 countries in Central and Eastern Europe, and experienced ups and downs in other regions.",
+            "In recent years, China's trade potential in the CIS countries had rebounded significantly."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.resconrec.2014.12.001.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Using thermodynamics to improve the resource efficiency indicator GDP/DMC",
+            "Abstract",
+            "This paper analyzes the drawbacks of using the lead indicator Gross Domestic Product divided by Domestic Material Consumption (GDP/DMC) proposed by the European Commission as part of the Resource Efficiency Roadmap.",
+            "As an alternative, we propose to assess mineral resource efficiency through exergy replacement costs instead of using mass terms.",
+            "Exergy replacement costs represent the useful energy that would be required to return minerals from the most dispersed state (the bedrock) to their original conditions (of composition and concentration in the mineral deposits).",
+            "Dispersing a scarce mineral such as gold or oil has a much higher replacement cost than that of iron or limestone and in the final accounting, the first minerals have a greater weighting.",
+            "Consequently, the tonnage produced and dispersion degree are considered in the proposed index.",
+            "This new index would lead to more developed policies that could reduce the consumption of scarce materials with higher replacement costs.",
+            "The suitability of the proposed indicator is evaluated through the case study of mineral balance in Spain."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.resourpol.2019.03.010.txt": {
+        "sdg": "10",
+        "sentences": [
+            "The asymmetric causal relationship between renewable and NON-RENEWABLE energy consumption and economic growth in the ASEAN-5 countries",
+            "This study analyzes the causality between energy consumption and economic growth for ASEAN-5 countries.",
+            "The data set of the study cover the years between 1980 and 2015.",
+            "The research uses Hacker and Hatemi-J(2006) tests for symmetric causality analysis and Hatemi-j(2012) test to examine asymmetric causality..",
+            "According to Hacker and Hatemi-J(2006) test's results, economic growth and renewable energy consumption are not generally related to ASEAN-5 countries' growth.",
+            "However, Hatemi-J(2012) results suggest the presence of a significant relationships between non-renewable energy consumption and economic growth.",
+            "Different interactions are observed according to the realization of positive and negative shocks.",
+            "This supports that ASEAN-5 countries need to orientate to renewable energy consumption in energy policies.",
+            "Also considering positive and negative shocks indicates that more effective results can be obtained in economic development process while determining energy policies."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM",
+            "NONE"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.rser.2015.06.062.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Renewable energy policy framework and bioenergy contribution in the European Union \u2013 An overview from National Renewable Energy Action Plans and Progress Reports",
+            "The use of renewable energy is projected to increase substantially in the European Union to reach a share of 20% in final energy consumption and 10% renewable energy in transport by 2020.",
+            "The renewable energy contribution is further expected to increase to 55%\u201375% of gross final energy consumption in 2050.",
+            "According to the latest reports, the European Union has made significant progress since 2005 and is on track to reach its 2020 renewable energy targets.",
+            "This paper provides a review of the policy framework for renewable energy in the European Union and an analysis of the progress made by the use of renewable energy as well as the expected developments until 2020 and beyond.",
+            "It focusses on the contribution of bioenergy, the major source among renewables in the European Union.",
+            "As biomass availability is a critical issue for the bioenergy production, this paper provides an analysis of the biomass demand for reaching the 2020 targets, in relation with the expected domestic supply and biomass potential."
+        ],
+        "labels": [
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE",
+            "NONE",
+            "NONE"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.rser.2019.01.020.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Renewable energy consumption-economic growth nexus in emerging countries: A bootstrap panel causality test",
+            "In this study, we analyzed the relationship between renewable energy consumption and economic growth in 17 emerging countries, spanning the period of 1990\u20132016.",
+            "The bootstrap panel causality test, allowing for dependence across countries and heterogeneity in slope parameters, developed by K\u00f3nya (2006) [1] was employed.",
+            "The results indicated that the neutrality hypothesis does hold for all of the markets studied except for Poland, which confirmed the growth hypothesis.",
+            "As such, because of the nonexistence of causality running from renewable energy demand to economic growth, energy saving (mitigation) policies do not have any detrimental influence on the growth rates of these 16 emerging economies.",
+            "For Poland; however, energy conservation policies may have detrimental effects on the country's economic performance level."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.rser.2020.109927.txt": {
+        "sdg": "10",
+        "sentences": [
+            "A review on alternative fuels in future energy system",
+            "Abstract",
+            "Transition and decarbonization of the energy sector require the utilisation of new technologies and energy sources.",
+            "Higher penetration of intermittent renewable energy sources implies the installation of energy storage, to store electricity excess and enhanced system efficiency.",
+            "These electricity surpluses that will occur more often in the future energy system could be effectively utilized for the production of alternative fuels.",
+            "Most of the alternative fuels that are considered for future applications are already known chemicals or products, nowadays used for other purposes.",
+            "Another great advantage of some alternative fuels lies in their possibilities to act as an energy carrier.",
+            "This feature might be crucial while discussing their utilisation potential and further development.",
+            "Fuels which can simultaneously be used for power generation and as an energy carrier will have a more important role in the future and are likely to be utilized on a greater scale.",
+            "Renewable energy source like biomass, on the other hand, is already widely used, and their role in the future system is not questionable.",
+            "Even though significant increment in biomass consumption raises serious concerns about its sustainability, and seeks for new approaches.",
+            "In this work, the authors tried to review alternative fuel characteristics, alongside their utilisation and production opportunities.",
+            "To come up with the optimal solutions, the authors compared various proposed alternative fuels, alongside their advantages and drawbacks with an aim to find the most appropriate role for each fuel."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.rser.2020.110094.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Causal interactions between trade openness, renewable electricity consumption, and economic growth in Asia-Pacific countries: Fresh evidence from a bootstrap ARDL approach",
+            "This paper applies a new bootstrap Autoregressive Distributed Lag (ADL) approach to examine the nexus between trade openness, renewable electricity consumption, and economic growth for seven countries in the Asia-Pacific region during 1980\u20132017 period.",
+            "In fact, there is no evidence of cointegration among real trade openness, electricity consumption, and real GDP per capita in countries, with the exception of Malaysia, where real GDP serves as dependent variable.",
+            "However, cointegration does manifest in the cases of Indonesia, Japan, South Korea, and Thailand when trade openness is used as the dependent variable.",
+            "A similar outcome is observed for Indonesia, Malaysia, and Thailand when renewable electricity consumption is used as the dependent variable.",
+            "A short-run analysis reveals mixed results in term of the direction of the causality among different variables for various countries.",
+            "Such results have implications for trade, energy, and environmental policies.",
+            "One implication is that any environmental policy aiming to reduce the use of non-renewable energy and carbon dioxide emissions will inevitably lead to greater renewable energy consumption, which in turn may enhance trade openness and ultimately accelerate economic growth."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.scitotenv.2019.05.011.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Carbon dioxide abatement in Africa: The role of renewable and non-renewable energy consumption",
+            "Abstract",
+            "The study explores the importance of renewable and non-renewable energy consumption on CO2 abatement in Africa from 1990 to 2014 with available balanced panel data for selected 19 countries employing the Augmented Mean Group (AMG) estimation technique.",
+            "The study adopts both first-and-second-generation unit root and cointegration tests.",
+            "Findings affirm cointegration among the variables.",
+            "Results from the AMG estimate reveal that while renewable energy inhibits CO2 emissions insignificantly in Africa, non-renewable energy increases CO2 emissions significantly.",
+            "Country-specific results reveal that the influence of both types of energy sources on CO2 emissions vary in terms of the nature of the relationship, the magnitude of influence and the level of significance.",
+            "We further observed a one-way causality from renewable & non-renewable energy to CO2 emissions.",
+            "Based on findings, policies for enhancing growth and curtailing environmental degradation with a view to achieving sustainable development were suggested."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.scitotenv.2019.05.139.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Dynamic impact of trade policy, economic growth, fertility rate, renewable and non-renewable energy consumption on ecological footprint in Europe",
+            "Climate change mitigation has become the central theme for many policy initiatives, as such, the European Union (EU) member countries are working assiduously to achieve the emission targets.",
+            "To provide policy direction in achieving the emission targets, this study investigated the drivers essential to attaining the Sustainable Development Goals in regards to reducing environmental pollution in EU member countries.",
+            "A balanced panel of 16-EU countries from 1997 to 2014 was estimated with Panel Pool Mean Group Autoregressive distributive lag (PMG-ARDL) model.",
+            "The study traced the equilibrium relationship between ecological footprint, real gross domestic product, trade openness, fertility rate, renewable and non-renewable energy consumption \u2014 suggested by both Kao and Pedroni cointegration tests.",
+            "The PMG-ARDL analysis confirmed the role of non-renewable energy consumption in depleting environmental quality while renewable energy consumption was found to improve environmental sustainability.",
+            "Interestingly, the unexpected long-run fertility-ecological footprint nexus was connected with the divergent fertility rate information of the EU member countries.",
+            "Although, country-specific policy approach is essential, however, such a framework should be compatible with the region's overall Sustainable Development Goals.",
+            "The call for diversification of existing energy portfolios by either incorporating or enhancing renewable energy technologies is essential to sustain the current success strides of most member states.",
+            "Thus, the EU needs to strengthen its commitments to achieving the emission targets by decarbonizing and sustaining its economic growth trajectory."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.scs.2018.12.041.txt": {
+        "sdg": "10",
+        "sentences": [
+            "A GIS-based model to assess electric energy consumptions and usable renewable energy potential in Lazio region at municipality scale",
+            "The ongoing energy transition processes need a rapprochement between the places of energy production and consumption with the aim of creating innovative and integrated territorial models.",
+            "Consequentially, models and strategies for increasing the use of local and renewable energy sources (RES) play a key rule for enhancing energy independence and sustainability of the considered areas.",
+            "The main objective of this study is to analyse the energy system of the Lazio Region in Italy, comparing electricity consumptions and production from renewable sources at municipality scale.",
+            "In order to estimate the electricity consumptions and the local production by RES, the main sectors of electricity consumption together with the potential of the available RES for the electricity production have been analysed.",
+            "The obtained results pinpointed the main critical aspects of the Lazio region, that are mainly focalized in the city of Rome and in the most densely inhabited municipalities.",
+            "Furthermore, research outputs provide an overall framework on the regional RES potential and allowed the formulation of proposals aimed at overcoming the identified criticalities and increasing the share of electricity production from renewables.",
+            "Finally, the research approach could be replicated in other areas, providing a useful process for decision makers and stakeholders."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "CLAIM",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "NONE"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.techfore.2018.07.053.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Measuring GDP in the digital economy: Increasing dependence on uncaptured GDP",
+            "Abstract",
+            "As revealed by Tapscott in his best-seller The Digital Economy published in 1994, the Internet has dramatically changed the way of conducting business and our daily lives.",
+            "Further advancement of digital innovation, including cloud, mobile services, and artificial intelligence, has augmented this change significantly and provided us with extraordinary services and welfare never anticipated before.",
+            "However, contrary to such an accomplishment, productivity in industrialized countries now confronts an apparent decline raising the question of a possible productivity paradox in the digital economy.",
+            "The limitations of gross domestic product (GDP) statistics in measuring the advancement of the digital economy have become an important subject.",
+            "While this mismatch is an old problem rooted in the dynamics of product innovations, since mismatch brought about by information and communication technology (ICT) is very strong, finding a solution to this critical issue has become highly crucial in the digital economy.",
+            "Based on an intensive review of preceding studies and empirical analyses of national, industrial and individual behaviors in the digital economy, this paper attempted to draw a perspective on this critical issue.",
+            "By means of an analysis of co-evolution among a shift in people's preferences from economic functionality to supra-functionality beyond economic value, the advancement of ICT and paradigm change to uncaptured GDP, a solution to this critical issue was investigated.",
+            "New insights for measuring the digital economy were explored which provide insight into integration of national accounts with product-oriented micro-analysis efforts."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE",
+            "NONE"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.technovation.2018.02.015.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Innovation and public procurement: Terminology, concepts, and applications",
+            "The growing awareness of public procurement as an innovation policy tool has recently sparked the interest of both policy makers and researchers.",
+            "While an increasing number of studies is being published every year, an overview of the field is missing.",
+            "Researchers, practitioners, and policy makers are often using ambiguous wording and have not yet reached consensus on the terminology and concepts involved.",
+            "This state of affairs leads to research fragmentation and lack of knowledge convergence.",
+            "For the purpose of contributing to knowledge synthesis and consolidation, this article provides a structured review of the literature on innovation in public procurement.",
+            "From categorizing publications based on innovation drivers, concepts, and research approaches, the emerging structure of the field is described and synthesized into a framework of innovation in public procurement.",
+            "The proposed framework differentiates between literature streams on (1) innovations in the public procurement process, (2) innovation of public services by means of procurement, and (3) the use of public procurement as a tool for demand-side innovation policy-making.",
+            "For each of these streams of literature, different focus areas as well as research gaps and opportunities for future research are identified.",
+            "Based on analysis of existing research, the proposed framework provides an overview of state-of-the-art knowledge, a unified terminology, and a holistic understanding of innovation in public procurement.",
+            "The framework is both a point of departure for future research and a source of knowledge for practitioners."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM",
+            "NONE"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.tej.2019.106670.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Target and demand for renewable energy across 10 ASEAN countries by 2040",
+            "Abstract",
+            "The member countries of Southeast Asia have renewable energy sources that never run out like solar energy, wind, geothermal, hydropower, biomass, etc.",
+            "Geographically, Southeast Asian countries are between two continents that have tropical and humid climate conditions in general, while only Myanmar has a subtropical climate because it is astronomically.",
+            "This provides easier access to many renewable energy sources.",
+            "The governments of ASEAN member countries have made several policies and promoted renewable energy to encourage individuals and industries to use renewable energy in the future.",
+            "This study provides information on the status of renewable energy as a comprehensive substitute for fossils in Southeast Asian countries, which includes the potential for renewable energy in the region and the capacity of renewable energy currently available.",
+            "The study also provides brief information on the potential of renewable energy, renewable energy targets, and challenges to energy demand in Southeast Asia.",
+            "In addition, this paper provides several recommendations for renewable energy in Southeast Asian countries."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE"
+        ]
+    },
+    "ABC_G1B2_10.1016_j.tust.2018.07.026.txt": {
+        "sdg": "10",
+        "sentences": [
+            "Sustainable vacuum waste collection systems in areas of difficult access",
+            "Abstract",
+            "Waste collection is the activity of transporting solid waste from the point of production to the point of treatment or disposal.",
+            "Today, the most common way of waste collection is by road from each individual\u2019s house or collecting point.",
+            "Whilst other services and utilities such as sewage, water, drainage and even modern day telecommunications have wisely been designed to be out of sight in the underground infrastructure, solid waste collection has commonly remained unchanged since the 19th century.",
+            "Furthermore, traditional municipal waste handling in historical city centres is often made difficult by: old infrastructures; narrow, crooked streets that are not suitable for large waste collection vehicles; little space for rubbish bins, making at source separation difficult, and; high volumes of tourists that make traditional bins less accessible by waste operatives, which often conflicts with the objectives of keeping areas associated with tourism clean and hygienic.",
+            "In these circumstances, underground vacuum waste collection arise as a revolutionary solution, even in remote areas.",
+            "This waste management model lets integrate waste collection into the infrastructure of a building, a residential development a district or even entire towns, by transporting waste using vacuum technology through an underground network of pipes.",
+            "The result, among other positive elements, is an average reduction in CO2 emissions above 90% compared with traditional collection models by truck."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "CLAIM",
+            "EVIDENCE",
+            "EVIDENCE"
+        ]
+    },
+    "10.1371/journal.pone.0141905": {
+        "sdg": "10",
+        "sentences": [
+            "Factors Associated with Bacterial Vaginosis among Women Who Have Sex with Women: A Systematic Review.",
+            "Background Women who have sex with women (WSW) have a higher burden of bacterial vaginosis (BV) than heterosexual women; studies of risk factors specific to this population are limited.",
+            "We summarised current knowledge regarding risk factors for BV among WSW by systematic review.",
+            "Methods This systematic review was conducted according to the PRISMA statement.",
+            "PUBMED, EMBASE, Web of Science and The Cochrane Library were searched to 31st December, 2014.",
+            "Inclusion criteria: 1) WSW included in the study population; 2) accepted BV diagnostic method; 3) investigated or could extrapolate factors(s) associated with BV acquisition, persistence or transmission in WSW specifically by comparing BV positive to BV negative women.",
+            "Search was limited to English-language publications.",
+            "Results A limited number of studies have investigated BV in WSW.",
+            "Of 71 unique references, 18 full-text articles were assessed and 14 studies fulfilled inclusion criteria.",
+            "BV was positively associated with higher numbers of female partners, both lifetime and in the three months prior to diagnosis, and confirmed BV in a female partner, but inconsistently associated with partners\u2019 BV history or symptoms.",
+            "BV was not associated with ethnicity, vaginal douching or hormonal contraception.",
+            "The impact of specific sexual activities, male sexual contact, smoking and the menstrual cycle varied considerably between study populations.",
+            "Conclusion BV in WSW is associated with increased numbers of recent and past female partners and confirmed BV in a female partner.",
+            "There are limited studies of BV in WSW populations, and research is needed to further elucidate risk factors for BV among WSW.",
+            "However these data provide epidemiological evidence that BV risk in women is directly related to exposure to other female partners and a partner with BV, providing support for the concept that BV is likely to be transmitted between women.",
+            "Systematic Review Registration Number CRD42014009536 (PROSPERO)"
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM",
+            "CLAIM",
+            "CLAIM",
+            "CLAIM"
+        ]
+    },
+    "10.35940/ijrte.d6805.118419": {
+        "sdg": "10",
+        "sentences": [
+            "Financial Inclusion and Economic Growth Utilizing Panel Co-Integration",
+            "This paper attempts to test the co-integration association flanked by financial inclusion and economic growth.",
+            "The study uses a composite score of financial inclusion and GDP per capita as a proxy of economic growth for its empirical analysis.",
+            "The panel data covers a large sample of 52 countries for the time period 2005-2015, separated in three groups depending on their income level \u2013 low, middle and high.",
+            "For the analysis, first the study constructed an index of financial inclusion (IFI) utilizing the methodology adopted by Sarma [41].",
+            "Then the study applied unit root checks to validate if the variables are non-stationary and co-integrated.",
+            "Last, the study utilized Pedroni\u2019s panel co-integration analysis to investigate the long-run affiliation.",
+            "The study also cross checked the results using Fisher\u2019s panel co-integration test.",
+            "The empirical analysis is based on 11 countries from high income economies, 19 countries from middle income economies and 21 countries from low income economies.",
+            "The findings confirm a long-run association flanked by economic growth and index of financial inclusion for the middle income countries.",
+            "This concludes that financial inclusion can contribute substantially to economic growth through better penetration, availability and use of financial services in the middle income countries."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "10.26710/reads.v1i1.113": {
+        "sdg": "10",
+        "sentences": [
+            "The Effects of Economic and Financial Development on Financial Inclusion in Africa",
+            "This study provides empirical evidence on the effects of economic and financial development on financial inclusion in Africa, using panel FMOLS for the 2005-2014 period.",
+            "The study shows that economic growth has a significant positive impact on financial inclusion, meaning that African countries with higher economic growth have more inclusive financial systems.",
+            "GDP per capita has a significant positive impact on financial inclusion.",
+            "That is, income is an important factor in explaining the level of \ufb01nancial inclusion in Africa.",
+            "It is, as well, established in this study, that although both economic and financial development promote financial inclusion, though the effects of economic development are much stronger.",
+            "Also, inflation is negatively linked to financial inclusion, and as well insignificant across all specifications.",
+            "Deposit interest rate is positively linked to financial inclusion, though insignificant.",
+            "The low deposit interest rates in African countries do not encourage inclusive financial systems.",
+            "Population, though positive, is insignificant.",
+            "Internet has positive significant impact on financial inclusion, meaning that internet access is indispensable in a fast-moving and digital African economy.",
+            "Literacy is also statistically significant, meaning that adult literacy is an important factor in explaining the level of \ufb01nancial inclusion in Africa.",
+            "As well, Islamic banking presence and activity are associated with higher financial inclusion."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "CLAIM",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE"
+        ]
+    },
+    "10.1016/j.ebiom.2019.03.072": {
+        "sdg": "10",
+        "sentences": [
+            "Identification of novel differentially methylated sites with potential as clinical predictors of impaired respiratory function and COPD",
+            "Abstract",
+            "",
+            "Background",
+            "The causes of poor respiratory function and COPD are incompletely understood, but it is clear that genes and the environment play a role.",
+            "As DNA methylation is under both genetic and environmental control, we hypothesised that investigation of differential methylation associated with these phenotypes would permit mechanistic insights, and improve prediction of COPD.",
+            "We investigated genome-wide differential DNA methylation patterns using the recently released 850K Illumina EPIC array in the largest single population sample to date.",
+            "",
+            "Methods",
+            "Epigenome-wide association studies (EWASs) of respiratory function and COPD were performed in peripheral blood samples from the Generation Scotland: Scottish Family Health Study (GS:SFHS) cohort (N=3,791; 274 COPD cases and 2,928 controls).",
+            "In independent COPD incidence data (N=150), significantly differentially methylated sites (DMSs; p&lt;3.6\u00d710\u22128) were evaluated for their added predictive power when added to a model including clinical variables, age, sex, height and smoking history using receiver operating characteristic analysis.",
+            "The Lothian Birth Cohort 1936 (LBC1936) was used to replicate association (N=895) and prediction (N=178) results.",
+            "",
+            "Findings",
+            "We identified 29 respiratory function and/or COPD associated DMSs, which mapped to genes involved in alternative splicing, JAK-STAT signalling, and axon guidance.",
+            "In prediction analyses, we observed significant improvement in discrimination between COPD cases and controls (p&lt;0.05) in independent GS:SFHS (p=0.014) and LBC1936 (p=0.018) datasets by adding DMSs to a clinical model.",
+            "",
+            "Interpretation",
+            "Identification of novel DMSs has provided insight into the molecular mechanisms regulating respiratory function and aided prediction of COPD risk.",
+            "",
+            "Funding",
+            "Wellcome Trust Strategic Award 10436/Z/14/Z.",
+            "",
+            "Research in context",
+            "",
+            "Evidence before this study",
+            "We searched for articles in PubMed published in English up to July 25, 2018, with the search terms \u201cDNA methylation\u201d and \u201crespiratory function\u201d, or \u201cCOPD\u201d.",
+            "We found some evidence for association between differential DNA methylation and both respiratory function and COPD.",
+            "Of the twelve previous studies identified, eight used peripheral blood samples (sample size [N] range = 100-1,085) and four used lung tissue samples (N range = 24-160).",
+            "The number of CpG loci analysed range from 27,578 to 485,512.",
+            "These studies have not identified consistent changes in methylation, most likely due to a combination of factors including small sample sizes, technical issues, phenotypic definitions, and study design.",
+            "In addition, no previous study has: analysed a sample from a large single cohort; used the recently released Illumina EPIC array (which assesses ~850,000 CpG loci); adjusted methylation data and phenotype for smoking history, or used both prevalent and incident COPD electronic health record data.",
+            "",
+            "Added value of this study",
+            "To our knowledge, this is the largest single cohort epigenome-wide association study (EWAS) of respiratory function and COPD to date (N=3,791).",
+            "After applying stringent genome-wide significance criteria (P &lt;3.6\u00d710\u22128), we found that DNA methylation levels at 29 CpG sites in peripheral blood were associated with respiratory function or COPD.",
+            "Of these 29, seven were testable in an independent population sample: all seven showed consistent direction of effect between the two samples and three showed replication (p&lt;0.007 [0.05/7 CpG sites tested]).",
+            "Our results suggest that adjustment of both the phenotypic and the DNA methylation probe data for smoking history, which has not been carried out in previous studies, reduces the confounding effects of smoking, identifies larger numbers of associations, and reduces the heterogeneity of effects across smoking strata.",
+            "We used gene set enrichment and pathway analyses, together with an approach that combines DNA methylation results with gene expression data to provide evidence for enrichment of differentially methylated sites in genes linked to alternative splicing, and JAK-STAT signalling and axon guidance.",
+            "Finally, we demonstrated that the inclusion of DNA methylation data improves COPD risk prediction over established clinical variables alone in two independent datasets.",
+            "",
+            "Implications of all the available evidence",
+            "There is now accumulating evidence that DNA methylation in peripheral blood is associated with respiratory function and COPD.",
+            "Our study has shown that DNA methylation levels at 29 CpG sites are robustly associated with respiratory function and COPD, provide mechanistic insights, and can improve prediction of COPD risk.",
+            "Further studies are warranted to improve understanding of the aetiology of COPD and to assess the utility of DNA methylation profiling in the clinical management of this condition."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM",
+            "CLAIM",
+            "CLAIM"
+        ]
+    },
+    "10.1038/gim.2012.167": {
+        "sdg": "10",
+        "sentences": [
+            "Incorporating genomics into breast and prostate cancer screening: assessing the implications",
+            "Individual risk prediction and stratification based on polygenic profiling may be useful in disease prevention.",
+            "Risk-stratified population screening based on multiple factors including a polygenic risk profile has the potential to be more efficient than age-stratified screening.",
+            "In this article, we summarize the implications of personalized screening for breast and prostate cancers.",
+            "We report the opinions of multidisciplinary international experts who have explored the scientific, ethical, and logistical aspects of stratified screening.",
+            "We have identified (i) the need to recognize the benefits and harms of personalized screening as compared with existing screening methods, (ii) that the use of genetic data highlights complex ethical issues including discrimination against high-risk individuals by insurers and employers and patient autonomy in relation to genetic testing of minors, (iii) the need for transparency and clear communication about risk scores, about harms and benefits, and about reasons for inclusion and exclusion from the risk-based screening process, and (iv) the need to develop new professional competences and to assess cost-effectiveness and acceptability of stratified screening programs before implementation.",
+            "We conclude that health professionals and stakeholders need to consider the implications of incorporating genetic information in intervention strategies for health-care planning in the future.",
+            "Genet Med 2013:15(6):423\u2013432"
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM",
+            "CLAIM"
+        ]
+    },
+    "10.1371/journal.pone.0035864": {
+        "sdg": "10",
+        "sentences": [
+            "Inclusion and Human Rights in Health Policies: Comparative and Benchmarking Analysis of 51 Policies from Malawi, Sudan, South Africa and Namibia",
+            "While many health services strive to be equitable, accessible and inclusive, peoples\u2019 right to health often goes unrealized, particularly among vulnerable groups.",
+            "The extent to which health policies explicitly seek to achieve such goals sets the policy context in which services are delivered and evaluated.",
+            "An analytical framework was developed \u2013 EquiFrame \u2013 to evaluate 1) the extent to which 21 Core Concepts of human rights were addressed in policy documents, and 2) coverage of 12 Vulnerable Groups who might benefit from such policies.",
+            "Using this framework, analysis of 51 policies across Malawi, Namibia, South Africa and Sudan, confirmed the relevance of all Core Concepts and Vulnerable Groups.",
+            "Further, our analysis highlighted some very strong policies, serious shortcomings in others as well as country-specific patterns.",
+            "If social inclusion and human rights do not underpin policy formation, it is unlikely they will be inculcated in service delivery.",
+            "EquiFrame facilitates policy analysis and benchmarking, and provides a means for evaluating policy revision and development."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "10.3109/09638288.2015.1056387": {
+        "sdg": "10",
+        "sentences": [
+            "A grounded theory of Internet and social media use by young people who use augmentative and alternative communication (AAC)",
+            "PURPOSE: This paper presents a conceptual grounded theory for how young people with a diagnosis of cerebral palsy who use augmentative and alternative communication (AAC), perceive using the Internet and social media.",
+            "The aims of the research were to understand and contextualise their perceptions of access and use and explore implications for self-representation and social participation; to date literature on this topic is limited.",
+            "METHOD: A constructivist grounded theory research approach concurrently collected and analysed interview data from 25 participants (aged 14-24 years) who use AAC and additional sources.",
+            "RESULTS: A conceptual grounded theory was developed around an emergent core category that showed young people who use AAC have a clear desire to use the Internet and social media.",
+            "This was underpinned by eight supporting categories: reported use, described support, online challenges, access technology, speech generating device (SGD) issues, self-determination, self-representation and online social ties.",
+            "CONCLUSION: The conceptual grounded theory supports understanding of facilitators and challenges to use of the Internet and social media by young people with a diagnosis of cerebral palsy who use AAC.",
+            "The grounded theory illustrates how the desire to use the Internet and social media is based upon perceived benefits for enriching social relationships and enhancing opportunities for self-representation and self-determination that are synonymous with identified antecedents for community-based social inclusion.",
+            "Some of the participants are engaging with the Internet and social media through collaborative practice and the implications for how this phenomenon may impact on orthographic literacy and the personal care workforce are raised."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM",
+            "CLAIM",
+            "CLAIM"
+        ]
+    },
+    "10.1371/journal.pntd.0006622": {
+        "sdg": "10",
+        "sentences": [
+            "Socioeconomic risk markers of leprosy in high-burden countries: A systematic review and meta-analysis",
+            "Over 200,000 new cases of leprosy are detected each year, of which approximately 7% are associated with grade-2 disabilities (G2Ds).",
+            "For achieving leprosy elimination, one of the main challenges will be targeting higher risk groups within endemic communities.",
+            "Nevertheless, the socioeconomic risk markers of leprosy remain poorly understood.",
+            "To address this gap we systematically reviewed MEDLINE/PubMed, Embase, LILACS and Web of Science for original articles investigating the social determinants of leprosy in countries with > 1000 cases/year in at least five years between 2006 and 2016.",
+            "Cohort, case-control, cross-sectional, and ecological studies were eligible for inclusion; qualitative studies, case reports, and reviews were excluded.",
+            "Out of 1,534 non-duplicate records, 96 full-text articles were reviewed, and 39 met inclusion criteria.",
+            "17 were included in random-effects meta-analyses for sex, occupation, food shortage, household contact, crowding, and lack of clean (i.e., treated) water.",
+            "The majority of studies were conducted in Brazil, India, or Bangladesh while none were undertaken in low-income countries.",
+            "Descriptive synthesis indicated that increased age, poor sanitary and socioeconomic conditions, lower level of education, and food-insecurity are risk markers for leprosy.",
+            "Additionally, in pooled estimates, leprosy was associated with being male (RR = 1.33, 95% CI = 1.06\u20131.67), performing manual labor (RR = 2.15, 95% CI = 0.97\u20134.74), suffering from food shortage in the past (RR = 1.39, 95% CI = 1.05\u20131.85), being a household contact of a leprosy patient (RR = 3.40, 95% CI = 2.24\u20135.18), and living in a crowded household (\u22655 per household) (RR = 1.38, 95% CI = 1.14\u20131.67).",
+            "Lack of clean water did not appear to be a risk marker of leprosy (RR = 0.94, 95% CI = 0.65\u20131.35).",
+            "Additionally, ecological studies provided evidence that lower inequality, better human development, increased healthcare coverage, and cash transfer programs are linked with lower leprosy risks.",
+            "These findings point to a consistent relationship between leprosy and unfavorable economic circumstances and, thereby, underscore the pressing need of leprosy control policies to target socially vulnerable groups in high-burden countries."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "10.1177/0971721819873178": {
+        "sdg": "10",
+        "sentences": [
+            "Inclusive Entrepreneurship, Innovation and Sustainable Growth: Role of Business Incubators, Academia and Social Enterprises in Asia",
+            " Globally, entrepreneurship is expected to play a central role in achieving \u2018inclusive growth\u2019.",
+            "This special issue draws on various developments related to the role of business incubators, academia and social enterprises towards achieving inclusive entrepreneurship, innovation and sustainable growth.",
+            "A \u2018successful entrepreneurship ecosystem\u2019, which includes business incubation is fundamental for promoting economic growth.",
+            "Over the years, business incubators are increasingly viewed as the facilitators of social inclusion and inclusive growth.",
+            "Likewise, there has been an increasing focus on how society at large can gain benefit from the research activities of the academia and also how it can promote social and student entrepreneurship.",
+            "Because of the positive contributions of the social enterprise sector in terms of gross domestic product (GDP), employment and positive social and environmental impacts, social entrepreneurship has gained recognition as a mainstream activity across the world.",
+            "Consequently, many Asian countries have initiated a range of policies to support social entrepreneurship because of their perceived contributions towards inclusive growth. "
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "10.1186/s12916-018-1044-4": {
+        "sdg": "10",
+        "sentences": [
+            "Differences in the health transition patterns of migrants and non-migrants aged 50 and older in southern and western Europe (2004-2015)",
+            "Background Most previous research on migrant health in Europe has taken a cross-sectional perspective, without a specific focus on the older population.",
+            "Having knowledge about inequalities in health transitions over the life course between migrants and non-migrants, including at older ages, is crucial for the tailoring of policies to the demands of an ageing and culturally diverse society.",
+            "We analyse differences in health transitions between migrants and non-migrants, specifically focusing on the older population in Europe.",
+            "Methods We used longitudinal data on migrants and non-migrants aged 50 and older in 10 southern and western European countries from the Survey of Health, Ageing and Retirement in Europe (2004\u20132015).",
+            "We applied multinomial logistic regression models of experiencing health deterioration among individuals in good health at baseline, and of experiencing health improvement among individuals in poor health at baseline, separately by sex, in which migrant status (non-migrant, western migrant, non-western migrant) was the main explanatory variable.",
+            "We considered three dimensions of health, namely self-rated health, depression and diabetes.",
+            "Results At older ages, migrants in Europe were at higher risk than non-migrants of experiencing a deterioration in health relative to remaining in a given state of self-rated health.",
+            "Western migrants had a higher risk than non-migrants of becoming depressed, while non-western migrants had a higher risk of acquiring diabetes.",
+            "Among females only, migrants also tended to be at lower risk than non-migrants of experiencing an improvement in both overall and mental health.",
+            "Differences in the health transition patterns of older migrants and non-migrants remained robust to the inclusion of several covariates, including education, job status and health-related behaviours.",
+            "Conclusions Our findings indicate that, in addition to having a health disadvantage at baseline, older migrants in Europe were more likely than older non-migrants to have experienced a deterioration in health over the study period.",
+            "These results raise concerns about whether migrants in Europe are as likely as non-migrants to age in good health.",
+            "We recommend that policies aiming to promote healthy ageing specifically address the health needs of the migrant population, thereby distinguishing migrants from different backgrounds.",
+            "Electronic supplementary material The online version of this article (10.1186/s12916-018-1044-4) contains supplementary material, which is available to authorized users."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM",
+            "CLAIM",
+            "CLAIM",
+            "CLAIM"
+        ]
+    },
+    "10.1016/j.socscimed.2019.112425": {
+        "sdg": "10",
+        "sentences": [
+            "Cultural engagement and mental health: Does socio-economic status explain the association?",
+            "There is a growing body of literature suggesting that the arts can support mental health.",
+            "However, both arts participation and cultural engagement are unevenly patterned across the population, with a strong social gradient.",
+            "This social gradient is also evident in mental health.",
+            "So it remains unclear whether the relationship between arts engagement and mental health can in fact be explained by socio-economic status (SES).",
+            "This study explores this question specifically in relation to cultural engagement (e.g. visiting museums/galleries/cinema/theatre/concerts) using data from 8780 adults aged 50 + from the English Longitudinal Study of Ageing.",
+            "We used a statistical triangulation approach, running three separate sets of analyses that each have different strengths and address different statistical limitations or biases.",
+            "Using logistic regression, the relationship between cultural engagement and mental health was still present when including covariates relating to SES, and there was no evidence of moderation by SES either through the inclusion of interaction terms or stratification.",
+            "Using propensity score matching, matching participants based on their SES, we also consistently found evidence of the relationship.",
+            "Finally, using fixed-effects regression which takes account of all time-invariant factors (which include multiple aspects of SES) even if unobserved, we also found no attenuation of the relationship.",
+            "Overall, this confirms previous reports that cultural engagement is linked with a lower odds of depression amongst adults aged 50 + by demonstrating a robust association in a nationally-representative sample of older adults.",
+            "While SES does explain around half of the association between cultural engagement and depression, we found no evidence that it either acts as a moderator or the main explanatory factor, with independent associations maintained across all three approaches.",
+            "However, the fact that higher SES is associated with more frequent engagement indicates that, in population terms, SES is still an important determinant of the salutogenic impact of culture."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM",
+            "CLAIM",
+            "CLAIM"
+        ]
+    },
+    "10.1142/s0217590815500381": {
+        "sdg": "10",
+        "sentences": [
+            "BEING POOR IN A RICH \"NANNY STATE\": DEVELOPMENTS IN SINGAPORE SOCIAL WELFARE",
+            " This paper reviews the trends in poverty and inequality in Singapore since independence, as well as policy recommendations adopted through the years, and their results.",
+            "Poverty is discussed not only in terms of wage earnings, but also in relation to employment conditions, social challenges that pile up together with income poverty, and intergenerational mobility.",
+            "The paper finds that notwithstanding improvements in early decades, after fifty years, the problems of a social divide and poverty have come full circle.",
+            "Social policy in Singapore retains its fundamentally productivist philosophical orientation, but the recent deterioration in poverty, inequality and mobility trends is leading to adoption of more welfare-oriented and universalist policy solutions.",
+            "Social inclusion is now a national priority, and policy redirection for the future needs to take place in wide-ranging policy domains, including the labor market and economic growth. "
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM",
+            "CLAIM"
+        ]
+    },
+    "10.5463/dcid.v27i2.474": {
+        "sdg": "10",
+        "sentences": [
+            "The Double Burden: Barriers and Facilitators to Socioeconomic Inclusion for Women with Disability in Bangladesh",
+            "Purpose: Recent evidence suggests that, globally, women with disability suffer multiple forms of discrimination and exclusion from mainstream society when compared with their female peers and men without disability.",
+            "In Bangladesh, which is a grossly overpopulated low-income country in South Asia, women with disability have poor health outcomes within a gender-biased cultural context.",
+            "This study aimed to define the current barriers and facilitators to socioeconomic inclusion for women with physical disability living in the community in Bangladesh and to highlight the impact of these barriers on health.",
+            "Methods: Semi-structured in-depth interviews were conducted with 15 women who had either a spinal cord injury or amputation, and who had been discharged for at least 3 months after inpatient admission.",
+            "Mixed purposeful sampling (a mixture of typical case sampling and criterion sampling) was used to recruit the study participants.",
+            "A thematic analysis was conducted to extract themes from the data.",
+            "The social determinants of health framework and the International Classification of Functioning (ICF) model were then used to contextualise the data.Results: Five major themes were identified including: exclusion from formal education, exclusion from the work force, exclusion from public facilities, exclusion from marriage and increased risk of violence and exclusion from community activities and social groups.",
+            "Facilitators to inclusion include: provision of accessible buildings and transport, community- based advocacy services and vocational training services.Conclusions: The combination of physical disability and female gender presents multiple complex barriers to inclusion in the socioeconomic and cultural life of Bangladesh.",
+            "Practical interventions through both up-scaling and expansion of disability-specific programming and sustained policy implementation are required to facilitate individual empowerment and better health outcomes for women with disability."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "10.1007/s10552-016-0827-1": {
+        "sdg": "10",
+        "sentences": [
+            "Investigating the prostate specific antigen, body mass index and age relationship: is an age-BMI-adjusted PSA model clinically useful?",
+            "Purpose",
+            "Previous studies indicate a possible inverse relationship between prostate-specific antigen (PSA) and body mass index (BMI), and a positive relationship between PSA and age.",
+            "We investigated the associations between age, BMI, PSA, and screen-detected prostate cancer to determine whether an age\u2013BMI-adjusted PSA model would be clinically useful for detecting prostate cancer.",
+            "Methods",
+            "Cross-sectional analysis nested within the UK ProtecT trial of treatments for localized cancer.",
+            "Of 18,238 men aged 50\u201369 years, 9,457 men without screen-detected prostate cancer (controls) and 1,836 men with prostate cancer (cases) met inclusion criteria: no history of prostate cancer or diabetes; PSA\\10 ng/ml; BMI between 15 and 50 kg/m2.",
+            "Multivariable linear regression models were used to investigate the relationship between log-PSA, age, and BMI in all men, controlling for prostate cancer status.",
+            "Results",
+            "In the 11,293 included men, the median PSA was 1.2 ng/ml (IQR: 0.7\u20132.6); mean age 61.7 years (SD 4.9); and mean BMI 26.8 kg/m2 (SD 3.7).",
+            "There were a 5.1% decrease in PSA per 5 kg/m2 increase in BMI (95% CI 3.4\u20136.8) and a 13.6% increase in PSA per 5-year increase in age (95% CI 12.0\u201315.1).",
+            "Interaction tests showed no evidence for different associations between age, BMI, and PSA in men above and below 3.0 ng/ml (all p for interaction [0.2).",
+            "The age\u2013BMI-adjusted PSA model performed as well as an age-adjusted model based on National Institute for Health and Care Excellence (NICE) guidelines at detecting prostate cancer.",
+            "Conclusions",
+            "Age and BMI were associated with small changes in PSA.",
+            "An age\u2013BMI-adjusted PSA model is no more clinically useful for detecting prostate cancer than current NICE guidelines.",
+            "Future studies looking at the effect of different variables on PSA, independent of their effect on prostate cancer, may improve the discrimination of PSA for prostate cancer."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM",
+            "CLAIM",
+            "CLAIM"
+        ]
+    },
+    "10.17645/si.v4i3.546": {
+        "sdg": "10",
+        "sentences": [
+            "Framing Social Inclusion as a Benchmark for Cycling-Inclusive Transport Policy in Kisumu, Kenya",
+            "Cycling in many cities of the Global South faces unending exclusion from street spaces despite the on-going transport policy reforms.",
+            "This exclusion worsens the marginalisation of the poor majority who use this mode.",
+            "In this paper, we formulate social inclusion as a policy tool for reconciling transport policy to the cycling needs of Kisumu, Kenya.",
+            "We draw from social quality theory and Lefebvre\u2019s right to the city concept to assemble the ideals of social inclusion.",
+            "These ideals form the benchmark for a qualitative content analysis of the policy pronouncements contained in the Kenya Vision 2030 and the Integrated National Transport Policy to ascertain the opportunities presented by these policies for cycling inclusion.",
+            "Findings from interviews held with transport professionals in government and private practice support this content analysis.",
+            "Results show that while the Kenya Vision 2030 focuses on economic growth, the Government has prioritised the implementation of its projects, thus diminishing the fragile opportunity for cycling inclusion presented by the transport policy.",
+            "To consolidate this opportunity, we propose different policy recommendations to improve the terms for cyclists to claim and produce street spaces."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "CLAIM",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE"
+        ]
+    },
+    "10.1177/1354068810391149": {
+        "sdg": "10",
+        "sentences": [
+            "Ethnic inclusion and economic growth",
+            " Is ethnic social diversity relevant to cross-national variation in economic development, or is the inclusion or exclusion of said groups in political decision-making the more salient factor?",
+            "We argue that deleterious policy effects resulting in diminished economic growth are caused by exclusion of mobilized ethnic groups from the policy process and not just ethnic social diversity per se.",
+            "Conversely, a positive impact of ethnicity as more groups are included in the policy process with increasing access to cabinet is due, first, to the fact that a population finding its preferences represented in the policy process likely supports implementation of resultant policy.",
+            "Second, the policy quality likely improves with greater variety in input.",
+            "Third, a greater number of included ethnic groups in cabinet increases the number of ethnic partisan veto players in the policy process \u2014 thereby generating increased policy stability in the long term.",
+            "We test this idea first on long-run growth in democracy and, second, on annual indicators of growth.",
+            "We find that increasing ethnic social fragmentation still negatively impacts on the economy.",
+            "However, cabinet diversity offsets some of these negative effects as it improves growth of GDP per capita. "
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "CLAIM",
+            "CLAIM",
+            "CLAIM",
+            "CLAIM",
+            "CLAIM",
+            "EVIDENCE",
+            "EVIDENCE"
+        ]
+    },
+    "10.1016/s2468-2667(19)30056-8": {
+        "sdg": "10",
+        "sentences": [
+            "International incidence of psychotic disorders, 2002\u201317: a systematic review and meta-analysis",
+            "Summary Background The last comprehensive systematic review of the incidence of psychotic disorders was published in 2004.",
+            "New epidemiological data from different settings now permit a broader understanding of global variation.",
+            "We examined the variation in psychosis by demographic characteristics and study method.",
+            "Methods For this systematic review and meta-analysis, we searched PubMed, Embase, Web of Science, PsycINFO, and bibliographies, and directly contacted first authors.",
+            "We sought to obtain citations of original research published between Jan 1, 2002, and Dec 31, 2017, on incidence of non-organic adult-onset psychotic disorder.",
+            "We included papers that were published or in grey literature and had no language restrictions.",
+            "Data were extracted from published reports, where possible, by sex, age, and ethnic group.",
+            "Quality of yield was assessed.",
+            "Data were assessed using univariable random-effects meta-analysis and meta-regression.",
+            "We registered our systematic review on PROSPERO, number CRD42018086800.",
+            "Findings From 56 721 records identified, 177 met inclusion criteria.",
+            "The pooled incidence of all psychotic disorders was 26\u00b76 per 100 000 person-years (95% CI 22\u00b70\u201331\u00b77).",
+            "Heterogeneity was high (I2\u226598\u00b75%).",
+            "Men were at higher risk of all psychotic disorders (incidence rate ratio 1\u00b744 [1\u00b727\u20131\u00b762]) and non-affective disorders (1\u00b760 [1\u00b744\u20131\u00b777]) than women, but not affective psychotic disorders (0\u00b787 [0\u00b775\u20131\u00b700]).",
+            "Ethnic minorities were also at excess risk of all psychotic disorders (1\u00b775 [1\u00b753\u20132\u00b700]), including non-affective disorders (1\u00b771 [1\u00b740\u20132\u00b709]).",
+            "Meta-regression revealed that population registers reported higher rates of non-affective disorders (9\u00b764 [2\u00b772\u201331\u00b782]), schizophrenia (2\u00b751 [1\u00b724\u20135\u00b721]), and bipolar disorder (4\u00b753 [2\u00b741\u20138\u00b751]) than first contact study designs.",
+            "Interpretation We found marked variation in incidence of psychotic disorders by personal characteristics and place.",
+            "Some geographical variation could be partially explained by differences in case ascertainment methods.",
+            "Funding None."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM",
+            "CLAIM",
+            "CLAIM"
+        ]
+    },
+    "10.1017/s0001924000002475": {
+        "sdg": "10",
+        "sentences": [
+            "Systematic review of the impact of emissions from aviation on current and future climate",
+            "AbstractAviation emissions have an impact on the global climate, and this is consequently an active area of research worldwide.",
+            "By adapting replicable and transparent systematic review methods from the field of evidence-based medicine, we aim to synthesise available data on the effects of aviation emissions on climate.",
+            "From these data, we aim to calculate lower and upper bounds for estimates of the effect of aviation on climate in an objective manner.",
+            "For the systematic review an appropriate protocol was developed and applied by two independent reviewers, to identify research that met the inclusion criteria.",
+            "These included all aviation types, original research studies, climate models with aviation as a specific component, with outcomes for emissions, radiative forcing, global warming potential and/or surface temperature changes.",
+            "These studies were prioritised and data extracted using a standard process.",
+            "The 35 studies reviewed here reported radiative forcing, global warming potential and/or temperature changes as outcomes, allowing direct comparisons to be made.",
+            "Tabulated results and a narrative commentary were provided for overall effects on climate, and the individual effects of carbon dioxide, water, contrails, cirrus clouds, ozone, nitrogen oxides, methane, soot and sulphur oxides.",
+            "Lower and upper bounds for these effects, and their relative contributions compared to overall radiative forcing and surface temperature changes, have been described.",
+            "This review shows that the most recent estimates for the contribution of aviation to global climate are highly dependent on the level of scientific understanding and modelling, and predicted scenarios for social and economic growth.",
+            "Estimates for the future contribution of aviation to global radiative forcing in 2015 range from 5\u00b731% to 8\u00b704%.",
+            "For 2050 the estimates have a wider spread, from 2\u00b712% to 17\u00b733%, the latter being for the most extreme technology and growth scenario.",
+            "These global estimates should be considered within the context of uncertainties in accounting for the direct and indirect effects of different contributions.",
+            "Variations between lower and upper bounds for estimates of radiative forcing are relatively low for carbon dioxide, around 131% to 800% for cirrus clouds effects, and 1,044% for soot.",
+            "Advances in climate research, particularly in the area of contrail and cloud effects, has led to some revision of the 1999 IPCC estimates(1), and demonstrates that the research community is actively working to further understand the underlying science.The approaches assumptions, limitations and future work were discussed in detail.",
+            "We have demonstrated how the systematic review methodology can be applied to climate science, in a replicable and transparent manner."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    }
+}

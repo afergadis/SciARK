@@ -1,0 +1,1516 @@
+{
+    "ABC_G1B3_10.1016_S0965-8564(96)00017-1.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Commercial fleet demand for alternative-fuel vehicles in California",
+            "Abstract",
+            "Fleet demand for alternative-fuel vehicles (\u2018AFVs\u2019 operating on fuels such as electricity, compressed natural gas, or methanol) is investigated through an analysis of a 1994 survey of 2000 fleet sites in California.",
+            "This survey gathered information on site characteristics, awareness of mandates and incentives for AFV operation, and AFV purchase intentions.",
+            "The survey also contained stated preference tasks in which fleet decision makers simulated fleet-replacement purchases by indicating how they would allocate their choices across a \u2018selector list\u2019 of hypothetical future vehicles.",
+            "A discrete choice model was estimated to obtain preference tradeoffs for fuel types and other vehicle attributes.",
+            "The overall tradeoff between vehicle range and vehicle capital cost in the sample was $80/mile of range, but with some variation by fleet sector.",
+            "The availability (density) of off-site alternative fuel stations was important to fleet operators, indicating that fleets are willing to trade off more fuel infrastructure for changes in other attributes, e.g.",
+            "increased capital or operating costs, or more limited vehicle range.",
+            "Public fleets (local and county government) were the most sensitive to the capital cost of new vehicles.",
+            "Along with schools, they are the only fleet sector where reduced tailpipe emission levels are a significant predictor of vehicle choice.",
+            "Fleet operators in the private sector base their vehicle selection less on environmental concerns than on practical operational needs."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "CLAIM",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.apenergy.2017.07.107.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Global transition to low-carbon electricity: A bibliometric analysis",
+            "Abstract",
+            "Decarbonizing the global electricity system is expected to contribute significantly to mitigating climate change.",
+            "A significant body of research has focused on the development of low-carbon power systems; hence, this bibliometric review is timely.",
+            "We assess the global scientific research on low-carbon electricity both quantitatively and qualitatively, based on the Science Citation Index Expanded (SCI-Expanded) and Social Sciences Citation Index (SSCI) spanning a quarter century and 13,767 publications.",
+            "Our analysis illustrates the role of inter-institutional collaboration in successful scientific research on low-carbon power systems.",
+            "The United States has contributed most to the low-carbon electricity literature with 3074 publications, the highest h-index (58), 8 of the 10 most cited articles, and 4 of the 10 most productive institutions.",
+            "The Chinese Academy of Science is the most productive institution with 270 publications and notably high levels of international collaboration.",
+            "Based on an analysis and visualization of author keywords and content analysis, we also characterize three phases of the global transition to low-carbon electricity.",
+            "The 1990s involved reliance on traditional base-load fuels (coal and nuclear), which spurred the search for cleaner alternatives.",
+            "These alternatives materialized as the rise of clean coal and wind in the first decade of the 21st century, followed by the growth of solar and natural gas beginning in 2010.",
+            "Besides this evolution of technologies, we document the transition to more nuanced forms of economic and policy analysis in recent years."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.apenergy.2019.114201.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Urban carbon footprints across scale: Important considerations for choosing system boundaries",
+            "Cities dominate global anthropogenic carbon emissions.",
+            "Here, we develop an approach to interpret carbon footprints of cities by focusing on their system boundaries, double counting recognition, spatial paths and policy sensitivities.",
+            "Using four megacities in China as a case study, we quantify and map urban carbon footprints from various accounting perspectives: territorial carbon emissions, community-wide infrastructure carbon footprint, consumption-based carbon footprint, wider production carbon footprint, and full-scope carbon footprint.",
+            "We find that the megacities\u2019 infrastructure carbon footprints are dominated by electricity-related emissions, whereas their consumption-based carbon footprints are significantly impacted by imports of both electricity and other products and services.",
+            "Over 55% of the full-scope carbon footprints (sums of all three scopes) of Beijing and Shanghai can be attributed to upstream emissions, while in Chongqing and Tianjin territorial emissions are more important.",
+            "Key urban infrastructure contributes over 70% to the total carbon emissions in import supply chains, determining the spatial paths and the carbon intensities of imports for these megacities.",
+            "The main destinations of outsourced carbon emissions across the country from the megacities are found to be similar due to market domination of bulk suppliers of infrastructure-related and other carbon-intensive products.",
+            "In addition, double counting of certain footprint indicators is considered small in this case, but could be amplified with increasing number of cities being assessed."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.cities.2020.102715.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Measuring the impacts of suburbanization with ecological footprint calculations",
+            "In this paper we present a complex Ecological Footprint (EF) analysis of one of the largest metropolitan regions in post-socialist East Central Europe, the Budapest Metropolitan Region.",
+            "Our overall goal is to use both top-down and bottom-up approaches and measure the changes of footprint at a metropolitan scale between 2003 and 2013.",
+            "Our specific objective is to explore how the spatial rearrangements of wealth, density and consumption influence the spatiotemporal changes of EF.",
+            "The top-down (compound) calculations indicate growing footprint values both in Hungary and in the Budapest Metropolitan Region in the investigated period.",
+            "However, household-level hybrid (component-based) calculations revealed decreasing footprint values for Hungary both in absolute and relative terms, and a growth for the metropolitan region.",
+            "This finding suggests growing income disparities within the country.",
+            "The indirect (consumption embedded) components of EF findings show that in the core city footprint values are higher due to higher disposable income.",
+            "However, there is a gradual catching up in the suburban zone as younger and more affluent households arrive.",
+            "On the other hand, direct per capita footprint values decreased in Budapest and grew in the suburbs between 2003 and 2013, mainly due to a higher heating footprint."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE",
+            "NONE",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.ecolind.2019.106035.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Linking ecological efficiency and the economic agglomeration of China based on the ecological footprint and nighttime light data",
+            "As natural resources are becoming one of the factors hindering economic development, the utilization efficiency of natural resources should be improved and ecological stress should be reduced to ensure sustainable economic development.",
+            "In this study, the ecological stress index and ecological efficiency were quantified using the ecological footprint model to describe the current status of sustainability and utilization efficiency of natural resources.",
+            "The economic agglomeration was determined by conducting global spatial autocorrelation analysis using Defense Meteorological Program/Operational Line-Scan System (DMSP/OLS) nighttime light data.",
+            "The relationship between economic agglomeration and ecological efficiency of China was then illustrated in a four-partite graph, and the results show that (1) the per-capita ecological footprints vary between the different provinces; however, the composition of the ecological footprint is similar between the provinces, and demonstrates the demand for fossil energy land is highest, while that for fishing ground is lowest.",
+            "(2) All provinces are facing ecological overload, excluding Qinghai, and Shanghai, Tianjin, and Beijing are enduring the most severe ecological overload.",
+            "(3) The ecological efficiency differs greatly between the different provinces of China, and the ecological efficiency values tend to decrease from the eastern coast to the inland region.",
+            "(4) The economic activities in every province of China are spatially agglomerated, and the degree of agglomeration differs significantly.",
+            "(5) There is a positive correlation between economic agglomeration and ecological efficiency, indicating that promoting economic agglomeration is an effective method of improving the utilization efficiency of natural resources.",
+            "The relationship between economic agglomeration and ecological efficiency observed in this paper will provide a reference for optimizing the spatial distribution of economic activities and a theoretical basis for synchronizing environmental protection with economic development in China."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.egypro.2019.02.206.txt": {
+        "sdg": "12",
+        "sentences": [
+            "The potential of variable speed diesel application in increasing renewable energy source penetration",
+            "Abstract",
+            "Integration of renewable energy source (RES) generation to displace diesel generation can present clear economic, environmental and social benefit.",
+            "While low level RES integration is relatively easy to achieve, both the cost and complexity escalate as systems target increasing RES penetration.",
+            "A key barrier to greater RES penetrations remains the inefficiency of diesel generation to operate at low or partial loading.",
+            "To achieve low or partial loading, conventional fixed speed diesel technologies must rely on prescribed purge routines, which serve to increase emissions intensity and fuel consumption.",
+            "Fixed speed constraint remains the primary barrier to increased engine flexibility and improved partial load efficiency.",
+            "This paper investigates redesign of the diesel generator to achieve variable speed operation.",
+            "A suitable design basis is developed, with laboratory testing used to validate unit performance, ahead of economic evaluation.",
+            "Economic modelling is presented to explore the improve engine flexibility, required of hybrid diesel applications.",
+            "Variable speed application is shown to reduce diesel fuel consumption by up to 40 % in comparison to conventional hybrid diesel applications."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "CLAIM",
+            "EVIDENCE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.egyr.2018.11.001.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Blind spots in energy transition policy: Case studies from Germany and USA",
+            "Abstract",
+            "Energy transitions aim at economic prosperity through \u2018green-collar\u2019 job-creation, greater energy \u2018independence\u2019, and/or reduced emissions.",
+            "These objectives imply creating policy-supported national renewable technology industries, ideally reducing clean energy costs to a point where support becomes unnecessary.",
+            "Two dimensions of competition arise: renewables competing with incumbent technologies, and local renewable technology industries competing with others globally.",
+            "Policy can, sometimes, overlook the evolution of such competitive pressures due to three blind-spots.",
+            "Policy support may: create demand that outstrips the domestic industry\u2019s capacity to expand \u2014 generating jobs overseas; underestimate the pace at which costs of a new technology are falling and become inadvertently over-generous; underestimate innovation potential in incumbent technologies, which necessitates longer-than-anticipated support for the renewable technology or, at worst, cease support before the new technology is sustainably cost-competitive.",
+            "These blind-spots suggest that policymakers may incorporate more realistic representations of foreseeable changes in the competitive dynamics of industry and trade into transition planning.",
+            "Ultimately, clean energy penetration intends to reduce absolute fossil-fuel consumption, which may trigger a more competitive response from affected suppliers than seen so far.",
+            "This will be experienced as reductions in production costs due to demand clearing down the supply cost-curve and the supply cost-curve itself moving downwards."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.egyr.2020.02.009.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Electricity access, human development index, governance and income inequality in Sub-Saharan Africa",
+            "Abstract",
+            "Consistent with the Sustainable Development Goal 7 of ensuring access to clean and modern energy technologies, this study examined the nexus between access to electricity, human development index, political system environment, income level, and income inequality.",
+            "We employed a nonparametric regression technique with Driscoll\u2013Kraay standard errors from 1990 to 2017 in Sub-Saharan Africa.",
+            "The study revealed that income inequality has a negative effect on access to electricity whereas income level and human development have a positive impact on access to electricity.",
+            "Enhancing the political system environment in Sub-Saharan Africa is crucial to ensuring access to clean and modern electricity.",
+            "The negative effect of political system on income inequality means that good governance environment reduces income inequality.",
+            "Income inequality is found to reduce human development, as such, social protection policies that reduce poverty are essential to minimize the vulnerability to poverty.",
+            "The study highlights that the effective promotion of labor markets and the improvement of socio-economic capacity to manage unemployment, infirmity, and disability will decrease income inequality, hence, promote human development."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.egyr.2020.04.022.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Challenges and prospects of Nigeria\u2019s sustainable energy transition with lessons from other countries\u2019 experiences",
+            "Abstract",
+            "Sustainable energy transition is generally understood as a concept of developing robust, effective and efficient energy sectors in a particular country or region without compromising the present and future socio-environmental security.",
+            "In view of this, several countries have made remarkable efforts towards achieving this all-important objective in compliance with modern energy needs and supply requirements.",
+            "Over half of the reported impoverished people globally reside in the sub-Saharan Africa (SSA) region and a sizeable portion of these people (up to 400 million) live in Nigeria, being the most populated country in Africa.",
+            "The economic growth and social development of any nation depend remarkably on the sufficiency of its energy sector.",
+            "Thus, the realization of the Sustainable Development Goals (SDGs) comes the year 2030, as projected by the united nations, in Nigeria and the entire SSA region depends heavily on energy.",
+            "In this study, the importance of an equitable right to sustainable energy adoption in Nigeria and other countries in Africa towards meeting United Nations SDG\u2019s deadline has been succinctly discussed.",
+            "The reform activities towards improving the energy sector of Nigeria are discussed and appropriate recommendations are made taking clues from other developing countries\u2019 successful energy transition efforts."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.eiar.2019.106310.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Relationship between green public procurement criteria and sustainability assessment tools applied to office buildings",
+            "Green Public Procurement (GPP) plays an important role in facing the challenge of reducing the environmental impacts from construction sector-related products, services and works, and creating environmental and innovative value for society in favour of a greener and more sustainable economy.",
+            "The European Commission recently developed GPP criteria for the \u201coffice buildings\u201d category.",
+            "In parallel, Building Sustainability Assessment (BSA) tools help estimate a building's impact on the environment based on a life cycle approach.",
+            "Many of the aspects and measurable indicators included in BSA tools are clearly related to the criteria covered by GPP.",
+            "However, other important ones are missing and should be integrated to ensure green procurement initiatives.",
+            "This study critically reviews the GPP criteria proposed for office buildings and crosschecks them with the sustainability indicators included in three BSA tools to reinforce the GPP framework for the office buildings sector.",
+            "It provides, on the one hand, an evaluation of the rate of improvement achieved in the tools when applying GPP criteria and, on the other, a proposal for a weighting system for awarding points to the offers in tenders.",
+            "The results will help contracting authorities to introduce more objectivity into the tendering process and to make informed decisions while evaluating bidders' proposals."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "CLAIM",
+            "EVIDENCE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.enbuild.2019.109466.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Modelling households\u2019 fuel stacking behaviour for space heating in Turkey using ordered and unordered discrete choice approaches",
+            "Abstract",
+            "The main objective of this study is to determine the factors affecting households\u2019 fuel type choices for space heating; this is accomplished using both ordered and unordered discrete choice models utilising the data of 93,119 households.",
+            "The data are drawn from Turkish Statistical Institute Household Budget Surveys (THBS) between 2003 and 2011 under three distinctive scenarios.",
+            "The results reveal that there is a statistically significant and strong relationship between households\u2019 fuel type choices for space heating and household head's gender, occupation group, household income, household size, type of dwelling, type of space heating system, dwelling size, number of rooms in the dwelling, settlement and region.",
+            "The empirical evidence indicates that households still rely on traditional fuel types, especially in the rural areas of Turkey.",
+            "For the model comparison, the ordered response models outperform the unordered response models in one of the three scenarios.",
+            "Thus, we suggest that ordered response models can also be performed to estimate households\u2019 fuel type choice behaviour.",
+            "As far as we know, this is the first attempt that simultaneously compares both ordered and unordered choice models using a Turkish sample.",
+            "The empirical evidence can help shed light on Turkish households\u2019 fuel stacking behaviour for future energy policies."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.energy.2009.04.010.txt": {
+        "sdg": "12",
+        "sentences": [
+            "An energy-economic scenario analysis of alternative fuels for personal transport using the Global Multi-regional MARKAL model (GMM)",
+            "Abstract",
+            "This paper deals with the long-term prospects of alternative fuels in global personal transport.",
+            "It aims at assessing key drivers and key bottlenecks for their deployment, focusing particularly on the role of biofuels and hydrogen in meeting climate policy objectives.",
+            "The analysis is pursued using the Global Multi-regional MARKAL model (GMM), a perfect foresight \u201cbottom-up\u201d model of the global energy system with a detailed representation of alternative fuel chains, linked to the Model for the Assessment of Greenhouse Gas Induced Climate Change (MAGICC).",
+            "The analysis shows that biofuels are limited by the regional availability of low-cost biomass, but can be important for meeting mild climate policy targets.",
+            "If policy-makers intend to pursue more stringent climate policy, then hydrogen becomes a competitive option.",
+            "However, the analysis finds that the use of hydrogen in personal transport is restricted to very stringent climate policy, as only such policy provides enough incentive to build up the required delivery infrastructure.",
+            "An analysis of costs additionally shows that \u201ckeeping the hydrogen option open\u201d does not take considerable investments compared to the investment needs in the power sector within the next decades, but allows the use of hydrogen for the pursuit of stringent climate policy in the second half of the century."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "CLAIM",
+            "EVIDENCE",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.enpol.2010.05.014.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Estimating rural populations without access to electricity in developing countries through night-time light satellite imagery",
+            "Abstract",
+            "A lack of access to energy and, in particular, electricity is a less obvious manifestation of poverty but arguably one of the most important.",
+            "This paper investigates the extent to which electricity access can be investigated using night-time light satellite data and spatially explicit population datasets to compare electricity access between 1990 and 2000.",
+            "We present here the first satellite derived estimates of rural population without access to electricity in developing countries to draw insights on issues surrounding the delivery of electricity to populations in rural areas.",
+            "The paper provides additional evidence of the slow progress in expansion of energy access to households in Sub-Saharan Africa and shows how this might be ascribed in part due to the low population densities in rural areas.",
+            "The fact that this is a continent with some of the lowest per-capita income levels aggravates the intrinsic difficulties associated with making the investments needed to supply electricity in areas with low population density and high dispersion.",
+            "Clearly, these spatial dimensions of the distributions of the remaining unelectrified populations in the world have an impact on what options are considered the most appropriate in expanding access to these households and the relative attractiveness of decentralized options."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.enpol.2018.03.042.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Implications for the energy policy derived from the relation between the cultural dimensions of Hofstede's model and the consumption of renewable energies",
+            "This paper aims to determine the relation between national culture and the consumption of renewable energies in several European countries.",
+            "According to the Renewable Energy Directive of the European Commission, there have been set common goals for the share of consumption of renewable energies in the European Union, but each country is responsible for the action plan to achieve these targets.",
+            "These targets have been set based on the initial values of the renewable energies and on the natural resources of each country.",
+            "Cultural aspects and energy consumption patterns have not been taken in consideration for the analysis of the willingness and motivation of consumers to switch towards renewable energies.",
+            "In this paper a panel data analysis has been carried out in order to measure the relation between Hofstede's cultural dimensions and the share of renewable energies in final consumption.",
+            "The results show a highly significant relation between the masculinity index and the share of renewable energies and an acceptable relation for the long term orientation index.",
+            "The energy policy of the European Union and of its countries should consider the cultural characteristics in the development of the national action plans for the implementation of renewable energies."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.envdev.2018.12.008.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Basin-scale estimation of nitrogen footprint and corresponding dynamic change characteristics: A case study",
+            "Population growth and increasing food and energy demands have led to nitrogen pollution.",
+            "The nitrogen footprint is a relatively new index of quantitative determination of nitrogen emissions used to measure the environmental pollution caused by human activities.",
+            "In this study, the nitrogen footprint in the Min River Basin from 2000 to 2015 was estimated based on the N-calculator model.",
+            "The dynamic change characteristics and the impact of social and economic influencing factors on the nitrogen footprint were analyzed.",
+            "Our results revealed that from 2000 to 2015, the total N footprint in the Min River Basin increased from 173,609 Mg to 275,803 Mg, with an increase from 20.3\u202fkg N/capita/yr to 26.0\u202fkg N/capita/yr.",
+            "The increase in the N footprint was mainly due to high urbanization, and the per capita food N footprint changes in rural and urban areas were positively correlated with changes in food consumption patterns.",
+            "The nitrogen footprint of the urban residents increased at a stable average rate of 18.0\u202fkg N/capita/yr, but the nitrogen footprint of rural residents initially decreased and then increased, eventually reaching an average value of 16.9\u202fkg N/capita/yr.",
+            "These data revealed the gradual narrowing of the rural-urban gap of the nitrogen footprint.",
+            "Foods with a high-nitrogen content accounted for a high proportion (61%) of the per capita nitrogen footprint of the urban residents, whereas the proportion of the high-nitrogen foods (e.g., animal meat and aquatic products) of the rural residents increased from 39% to 57% over the time period of the study.",
+            "In addition, the analysis of the correlation between food nitrogen footprint and social and economic factors showed that the nitrogen footprint was influenced by income and consumption levels, family size, education degree, and regional dietary habits.",
+            "The food nitrogen footprints of the urban and rural residents in the basin were positively correlated with per capita disposable income and resident consumption level but negatively correlated with the Engel\u2019s coefficient and the average family size.",
+            "Our results provide evidence that basin residents can effectively reduce their N footprint by increasing nitrogen utilization in food production, optimizing their dietary structure, maintaining reasonable low nitrogen dietary habits, and using clean energy sources."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM",
+            "EVIDENCE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.envsci.2018.04.011.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Carbon and material footprints of a welfare state: Why and how governments should enhance green investments",
+            "Sustainable development and climate change mitigation have become guiding policy principles in many welfare states.",
+            "However, the traditional role of a welfare state is to guarantee the economic stability, jobs and welfare for its citizens.",
+            "Sustainable development leans on the idea that we can have economic, social and environmental sustainability at the same time.",
+            "This would require decoupling of economic growth from environmental degradation.",
+            "Decoupling should be studied globally, because within nations, the economy can grow while local environmental impacts decrease, but at the same time, global environmental impacts may increase due to international trade.",
+            "In this study, we examine the consumption-based carbon and material footprints of a Nordic welfare state, Finland.",
+            "We focus on the environmental impacts of public spending, which has received little attention previously.",
+            "In welfare states, the reallocation of public funds to services and individuals are at its core.",
+            "In the study, we examine how this affects the carbon and material footprints of various income groups and household types.",
+            "We find that the share of public services and investments is 19% of the carbon footprint and 38% of the material footprint per capita.",
+            "Building of infrastructure plays a major role in composing the material footprint.",
+            "We also find that the welfare state has important features that improve the carbon equity between the citizens.",
+            "To achieve absolute decoupling, required to reduce environmental impacts caused by economic activities, we suggest policies promoting public and private green investments.",
+            "In addition, increased carbon pricing would enhance green investments and drive environmental innovation."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "CLAIM",
+            "EVIDENCE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.erss.2018.04.029.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Energy infrastructure and the fate of the nation: Introduction to special issue",
+            "Abstract",
+            "In this article we introduce a Special Issue of Energy Research and Social Science focused on energy infrastructure and the political economy of national development.",
+            "Many countries are experiencing transformational growth in energy infrastructure, such as transmission and distribution systems; import, export and storage facilities; the development of domestic energy resources; and construction of new power generating stations based on wind, water, coal, gas and nuclear sources.",
+            "Large-scale projects like these are frequently justified by appeals to grand narratives \u2013 promoting economic growth, securing energy supply, modernizing energy service provision, and transitioning to more environmentally sustainable energy systems - in which the fate of the nation is closely tied to infrastructural development.",
+            "The papers in this collection present compelling empirical evidence of how claims for energy infrastructure\u2019s national significance and/or necessity intersect with the (re)production of political and economic power.",
+            "Drawing on case material from Africa, the Americas, Asia, Australia and Europe, they highlight the capacity of different energy technologies and infrastructural assemblages to shape political and economic outcomes beyond their role in storing, transporting or transforming energy.",
+            "This Introduction to the Special Issue does three things.",
+            "First, it characterises the scale and significance of the contemporary \u2018infrastructural moment\u2019, observing how, in many national contexts, energy policy-making remains centralised and divorced from public participation.",
+            "Second, it critically differentiates existing literature on the political economy of energy infrastructure to identify five distinctive ways in which research understands the \u2018political work\u2019 infrastructure performs.",
+            "Third, it introduces the papers in the Special Issue and organises them into four key themes.",
+            "Overall, the Introduction affirms the importance for social science of understanding the economically and politically constitutive power of energy infrastructures.",
+            "The critical reflexivity this requires is essential to moving towards energy infrastructures that are just, equitable and sustainable."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.erss.2018.07.025.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Resistance in rejecting solid fuels: Beyond availability and adoption in the structural dominations of cooking practices in rural India",
+            "Abstract",
+            "Solid fuels are the primary cooking fuels in a wide range of developing countries, a situation that is projected to remain for the coming few decades.",
+            "In the energy poverty scholarship, it is a well-argued concept that social systems influence people\u2019s energy choices.",
+            "Influenced by theories of Practice, this study explores the role that social structure plays in the perpetuation of the use of solid cooking fuels, with a particular focus on rural India.",
+            "We employ a qualitative approach of inquiry for data collection in three villages in Chittoor district in the state of Andhra Pradesh.",
+            "The results presented in this paper are based on in-depth household interviews and focus group discussions.",
+            "The findings suggest that cooking with solid fuels is intertwined with structural elements, such as established traditions, traditional income generating practices, gender norms, and a sense of belonging.",
+            "These factors profoundly dominate households\u2019 decisions to continue using solid fuels despite the availability and the adoption of modern alternatives.",
+            "The paper argues that interventions targeted at reducing the use of solid fuels may fail if they: 1) focus only on supplying modern fuels; 2) do not consider contextual social barriers; and 3) are implemented as standalone projects."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.erss.2019.05.004.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Perpetuating energy poverty: Assessing roadmaps for universal energy access in unmet African electricity markets",
+            "Abstract",
+            "A growing number of people in Africa still do not have access to electricity.",
+            "This phenomenon threatens the realisation of the United Nation's Sustainable Development Goal 7, pertaining to universal access to modern energy.",
+            "Factors attributed to Africa's low electricity access include limited financial resources at the dispensation of governments to execute the capital-intensive infrastructure development required by the power sector.",
+            "This paper examines different scenarios to ascertain roadmaps for universal energy access in unmet African electricity market.",
+            "This was achieved by developing the Africa Electricity Access (AFELA) model, using system dynamics.",
+            "AFELA comprises three sub-models, namely: Electricity Access, Electricity Capital Investment, and Electricity Supply Capacity.",
+            "Four scenarios were examined to determine the fastest roadmap to universal electricity access in Africa.",
+            "The scenarios were the Baseline scenario, Economies of scale scenario, Capacity utilisation factor scenario, and Electricity access investment scenario.",
+            "The results show that the Electricity access investment scenario, which entails an increase in the annual power investment by two per cent of GDP, is the most viable way to universal electricity access.",
+            "The budget constraints of national governments, who are mandated to provide electricity, and the limited funds available from multilateral and bilateral aids, imply that investment from the private sector is vital.",
+            "The paper thus suggests private sector finance as a conduit to address the funding challenge, and expedite the attainment of universal access to electricity."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.erss.2019.05.024.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Renewable energy injustice: The socio-environmental implications of renewable energy consumption",
+            "We explore how national income inequality moderates the relationship between renewable energy consumption and CO2 emissions per capita for a sample of 175 nations from 1990 to 2014.",
+            "We find that, independent of income inequality and other drivers of emissions, increases in renewable energy consumption reduce emissions.",
+            "However, when national income inequality is considered, we find that as inequality increases renewable energy consumption is associated with a much larger decrease in emissions.",
+            "We also find that when fossil fuel energy is controlled for, inequality does not significantly moderate the association between renewable energy and emissions.",
+            "These results suggest that fossil fuel consumption is the main vector through which inequality moderates the relationship between renewable energy and emissions.",
+            "Drawing on previous work from energy poverty scholars, we theorize that national inequality influences the way renewables are deployed.",
+            "Specifically, our findings suggest that renewable energy displaces more fossil fuel energy sources when inequality is increasing, while\u2013 conversely\u2013 fewer existing fossil fuel energy sources are displaced when inequality is decreasing.",
+            "In additional analyses, we find that as the top 20 percent of income earners\u2019 share of income grows, the association between renewable energy consumption and emissions decreases in magnitude.",
+            "We conclude by arguing that efforts aimed at increasing renewable energy consumption should adopt policies that ensure the effective displacement of fossil fuels and reduce inequality."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.esd.2018.05.011.txt": {
+        "sdg": "12",
+        "sentences": [
+            "The Mega Conversion Program from kerosene to LPG in Indonesia: Lessons learned and recommendations for future clean cooking energy expansion",
+            "Abstract",
+            "Background",
+            "In 2007, the Indonesian Government instigated a national program to convert domestic kerosene users to liquefied petroleum gas (LPG) for cooking.",
+            "This was primarily motivated by the rising cost of kerosene subsidies.",
+            "Objective",
+            "To review the national conversion program and LPG scale up by evaluating its impacts, including assessing sustained changes in cooking behaviour and consequent reductions in exposure to household air pollution (HAP).",
+            "Methods and data sources",
+            "Searches of peer-review and grey literature in both English and Bahasa Indonesian were conducted and supplemented by interviews with key informants, data from the National Statistics Agency and results from household surveys.",
+            "The data were extracted and analyzed using an Implementation Science approach.",
+            "Results",
+            "The main kerosene to LPG conversion phase took place in highly populated kerosene dependent areas between 2007 and 2012 reaching over 50 million households, approximately two thirds of all households in Indonesia.",
+            "Since then the drive to expand LPG use has continued at a slower pace, especially in more remote provinces where solid fuel is more widely used.",
+            "Over 57 million LPG start up kits were distributed as of 2015.",
+            "Beginning in 2018, the open subsidy for LPG is expected to be replaced by one targeted at lower income households.",
+            "While the main conversion phase has been highlighted as an example of effective and impressively fast fuel switching at scale, the impact on domestic biomass use remains limited.",
+            "Conclusions",
+            "Addressing HAP and the health impacts associated with kerosene and biomass use was never an objective of the program.",
+            "Consequently, there is limited evidence of impact in this area, and in hindsight, missed opportunities in terms of influencing cooking behaviour change among biomass users, who are more at risk."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.esr.2020.100480.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Electricity access and income inequality in South Africa: Evidence from Bayesian and NARDL analyses",
+            "Abstract",
+            "Access to modern energy services including electricity is fundamental to fulfilling basic social needs, driving economic growth and fueling human development, hence, the pathway out of poverty to prosperity.",
+            "This study examined the impact of income level, inequality in the distribution of income and the control of corruption on access to electricity from 1990-2017 in South Africa, using Bayesian and nonlinear autoregressive distributed lag (NARDL) estimation approach.",
+            "The long-run asymmetric effects of income level reveal a positive impact on electricity access, thus, validating the initial positive symmetric effect.",
+            "While income inequality has positive effect on accessibility, corruption appears to hinder the roadmap towards achieving energy for all.",
+            "Even though economic development is crucial to materialize access to electricity, yet, efficient and effective financing and investment climate alone are not enough to warrant energy security, but, right policies, good governance and institutional quality."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.jclepro.2015.07.065.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Balancing competing policy demands: the case of sustainable public sector food procurement",
+            "A focus on market-based green growth strategies to pursue sustainability goals neglects the pursuit of understanding how human health is interwoven with the health of eco-systems to deliver sustainability goals.",
+            "The article argues that clarifying the difference between green and sustainable public sector food procurement, with political continuity that supports and enables policymakers and practitioners to take an incremental approach to change, makes an important contribution to delivering more sustainable food systems and better public health nutrition.",
+            "Five European case studies demonstrate the reality of devising and implementing innovative approaches to sustainable public sector food procurement and the effects of cultural and political framings.",
+            "How legislation is enacted at the national level and interpreted at the local level is a key driver for sustainable procurement.",
+            "Transition is dependent on political will and leadership and an infrastructure that can balance the economic, environmental and social drivers to effect change.",
+            "The development of systems and indicators to measure change, reforms to EU directives on procurement, and the relationship between green growth strategies and sustainable diets are also discussed.",
+            "The findings show the need to explore how consistent definitions for green public procurement and sustainable public procurement can be refined and standardized in order to support governments at all levels in reviewing and analyzing their current food procurement strategies and practices to improve sustainability."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.jclepro.2018.02.081.txt": {
+        "sdg": "12",
+        "sentences": [
+            "The role of microorganisms in achieving the sustainable development goals",
+            "Abstract",
+            "In January 2016, the 2030 goals for sustainable development were set by the United Nations for achieving environmental, social and economic growth through green methods and cleaner production technologies.",
+            "The most significant targets of these goals are the fulfillment of basic human needs and desires, since essential human necessities like food, cloth, shelter and health care are still not accessible to a majority of the people despite the great pace in the world's economy.",
+            "Increased waste products and continuously depleting natural resources have diverted human attention towards efficient green and clear production technologies.",
+            "The Sustainable Development Goals (SDG) aim at providing these fundamental necessities to everyone through the intelligent use of sustainable science.",
+            "In this perspective, microorganisms, which are vital to the maintenance of life on earth, can play a major role.",
+            "Although most people focus primarily on the disease-causing capabilities of microorganisms, there are numerous positive functions that microbes perform in the environment and hence, a need to explore the microbial world astutely as it can contribute tremendously to sustainable development.",
+            "In this review, the integration of microbial technology for the achievement of SDGs is being put forth.",
+            "The scope of the use of microorganisms, points of their control, methods for their better utilization and the role of education in achieving these targets are being discussed.",
+            "If the society is educated enough about the ways that microbes can affect our lives, and if microbes are used intelligently, then some significant problems being faced by the world today including food, health, well-being and green energy can be adequately taken care of."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.jclepro.2018.07.083.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Social sustainability criteria in public-work procurement: An international perspective",
+            "Scientific literature highlights the need to engage social sustainability more effectively in the construction industry through public procurement.",
+            "Previous contributions have been focused on establishing strategies and defining guides to encourage and facilitate the inclusion of social criteria in public procurement.",
+            "However, to reach effective results, the characterization of the current scenario needs to be clarified.",
+            "With this aim, this research analyzes 451 tendering documents from 10 countries in terms of social sustainability.",
+            "Three research questions are stated to characterize what the current main social criteria are, how these are defined, and what the differences and similarities are with respect to the inclusion of social criteria in tendering procedures at the international level.",
+            "To analyze tendering documents, a quantitative content analysis that combines inductive and deductive approaches is developed.",
+            "Descriptive statistics and statistical analysis based on correspondence analysis and the chi-square contingency table analysis are performed.",
+            "The results show a lack of metrics to assess social sustainability objectively, the predominance of health and safety as the main social criteria that are included in public procurement, and the importance of the contract size in the number of social categories considered in procurement procedures.",
+            "However, the main result of this research is focused on showing the important role that the variable \u201ccountry\u201d plays when the behavior regarding the inclusion of social sustainability is compared at the international level since significant differences are found between Anglo-Saxon and Spanish-speaking countries.",
+            "Policies should be implemented to promote the use of social criteria and metrics in the award of projects and in the evaluation and monitoring of social performance in the construction industry."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.jclepro.2019.05.194.txt": {
+        "sdg": "12",
+        "sentences": [
+            "A bottom up approach to evaluate the carbon footprints of a higher educational institute in India for sustainable existence",
+            "Carbon footprints (CFs) are the measure of extent of green house gases (GHGs) emitted from any organization or activity.",
+            "Reporting of extent of CFs in terms of CO2e from educational campus may be considered as a first step towards sustainable educational practices.",
+            "The present study employs a bottom up approach where CFs due to consumption of resources from each academic department is evaluated separately and net is obtained by adding contributions from individual departments.",
+            "This method has the advantage of avoiding the potential overlaps in the calculation.",
+            "Hence this approach to calculate carbon footprints can lead to their precise CF evaluation.",
+            "In order to justify above hypothesis, CF evaluation was carried out at Shikshana Prasarak Mandali's Sir Parashurambhau College, Pune for three consecutive years starting from 2015 to 2016.",
+            "The average carbon footprints over the study period were 3630.57\u202f\u00b1\u202f296.79 tones CO2e per year with per capita emission of 0.81\u202f\u00b1\u202f0.06 tones CO2e.",
+            "The emission density determined from the average value was found to be 0.0361\u202f\u00b1\u202f0.0029 tCO2e m\u22122 of the campus.",
+            "It was observed that emission sources classified as scope-1, scope-2 and scope-3 contribute 28%, 48% and 25% respectively to total emission.",
+            "Out of all the emission sources identified, apart from human contribution through respiration, electricity (35%), biodegradable and non-biodegradable waste, stationary paper, 7%, use of chemicals in the laboratories (5%), paper for official purpose (12%), LPG (3%) and transport (27%) were main contributors.",
+            "As this is a multi faculty college, science faculty contributes almost 62%, commerce 9% and arts 11% of the total emission."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "CLAIM",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "NONE",
+            "NONE",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.jclepro.2019.05.202.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Sustainability and procurement practices in higher education institutions: Barriers and drivers",
+            "A review of the literature reveals the scant research on sustainable procurement in the public sector, and in particular higher education institutions (HEIs).",
+            "In this context, this paper aims to contribute to an emerging stream of research on drivers and challenges which higher education institutions and the extent to which they are endorsing sustainable procurement practices.",
+            "The study is based on a survey of HEIs around the world, drawn from a network of sustainability practitioners and researchers at these institutions.",
+            "Design of the survey drew on existing studies of barriers and enablers, the use of vignettes to provoke ideas among the research team, and a pilot study.",
+            "Crucially, the study seeks to shed light on both drivers and critical barriers affecting the implementation of sustainable procurement at universities.",
+            "The results and discussion identify previously unidentified barriers and enablers, and further suggest that smaller HEI have some catching up to do.",
+            "Policy recommendations are presented and approaches on how to overcome barriers to sustainable procurement are set forth.",
+            "These centre on the proposal that HEIs should consider developing a reflexive strategy to procurement purchasing policy, and to ensure there are suitable means for its implementation."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.jclepro.2019.117685.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Eco-efficiency of grain production in China based on water footprints: A stochastic frontier approach",
+            "Eco-efficiency has consistently been of interest to researchers and policy makers.",
+            "Many methods have been employed to calculate eco-efficiency, with the exception of the stochastic frontier approach, which is popular in efficiency and productivity analysis.",
+            "Considering the strengths of the stochastic frontier approach and the features of grain production, an integrated WF-SFA method combining water footprint assessment and the stochastic frontier approach is proposed in this work.",
+            "In the method, the green, blue and grey water footprints of grain production are calculated.",
+            "Then, a translog stochastic frontier production function with actual grain output value as the only output and capital, labour and water footprints as the inputs is established.",
+            "Next, eco-efficiency, which is defined as the ratio of the actual output to the potential output, can be assessed.",
+            "This method is developed here to analyse the eco-efficiency of grain production and its determinants in China.",
+            "The main empirical results are as follows.",
+            "1) The annual average grain production water footprint in China from 1997 to 2015 was 820.37 billion .",
+            "2) The eco-efficiencies were estimated to be within the range of 0.424\u20130.986, with an average value of 0.807.",
+            "There is potential for China to increase the environmental and ecological sustainability with its grain production system.",
+            "3) The per capita GDP, per capita water supply, proportion of government expenditure on environmental protection and proportion of non-disaster areas positively influenced the grain production eco-efficiency.",
+            "In addition, the calculated output elasticities of the blue and grey water footprints of recent years were negative.",
+            "These findings can help China design relevant policies of agricultural sustainability focused on crop distribution, efficient irrigation water use and nutrient and pollutant management.",
+            "This research provides a basic framework for the eco-efficiency evaluation of grain production with the stochastic frontier approach which can inform policy and strategic development."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.jclepro.2019.117796.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Holistic approach for sustainability enhancing of hydrotreated aviation biofuels, through life cycle assessment: A Brazilian case study",
+            "Abstract",
+            "A novel approach for sustainability enhancement of jet biofuel production from palm oil and soybean oil is proposed.",
+            "A comparative Well-to-Wake analysis was performed assuming a supply chain in two strategic regions of Brazil, according to each raw material.",
+            "The functional unit was 1.0 MJ of energy, and impacts were quantified using Impact 2002 + and Cumulative Energy Demand methods.",
+            "Two different situations, referred to as scenarios, for each vegetable oil were proposed.",
+            "First conversion scenario (baseline case) included conventional jet biofuel production characteristics, regarding the use of fossil hydrogen.",
+            "Second conversion scenario (enhanced case) explored renewable alternatives for hydrogen production, such as residual biomass gasification, in palm oil case, and water electrolysis, for soybean oil scenario.",
+            "Results indicate significant reductions, ranging from 57% to 94%, in the global warming impact category of all scenarios as compared with conventional jet fuel.",
+            "Moreover, palm oil and soybean oil improved scenarios reached the lowest carbon footprint of 4.8 and 33.9 g CO2 eq/MJ, respectively.",
+            "Additionally, when considering Life Cycle Energy Efficiency an increase of about 65% and 63% for palm oil and soybean oil enhanced scenarios was observed, compared to baseline cases.",
+            "In the case of Fossil Energy Ratio, an increase of 4.4% and 29.6% was determined in the same vein.",
+            "Besides, in all scenarios, palm oil showed lower consumption of fossil and renewable energy than soybean oil.",
+            "Some limitations of the present work can be described as: economic and logistic feasibility, due to immature technologies; geographic conditions which could affect agricultural performance; and technical aspects regarding hydrogen production technologies."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.jclepro.2020.121663.txt": {
+        "sdg": "12",
+        "sentences": [
+            "The importance of renewable energy consumption and FDI inflows in reducing environmental degradation: Bootstrap ARDL bound test in selected 9 countries",
+            "This study examines the relationship between renewable energy consumption, non-renewable energy consumption, foreign direct investment, economic growth and carbon emissions for the nine countries (i.e., Denmark, Finland, France, India, Italy, Morocco, Norway, Portugal, Sweden) identified in the Climate Change Performance Index (CCPI) 2018 report.",
+            "This study mainly aims to demonstrate the role of renewable energy consumption and foreign direct investment on CO2 emissions in countries with high scores in the CCPI using the newly developed bootstrap autoregressive distributed lag (ARDL) approach.",
+            "For this purpose, the unit root properties of the variables are determined by sharp and smooth structural break unit root test (SOR, Shahbaz et.",
+            "al., 2018).",
+            "We then conduct a bootstrap ARDL test developed by McNown et al.",
+            "(2018) to investigate the existence of cointegration.",
+            "We also use Granger causality based on the bootstrap ARDL approach to identify causal relationships between variables.",
+            "Empirical analysis results show only a few cointegration relationships between variables exist.",
+            "However, we have identified significant long-term relationships between foreign direct investment, renewable energy consumption and economic growth in some countries, and our study includes important policy implications, particularly for relationship among CO2 emissions and foreign direct investment inflows."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.jclepro.2020.122709.txt": {
+        "sdg": "12",
+        "sentences": [
+            "The nexus between urbanization, renewable energy, trade, and ecological footprint in ASEAN countries",
+            "Economic growth, accompanied by rising energy demand in ASEAN countries have been unprecedented over these few years.",
+            "On the other hand, the energy consumed in the ASEAN region is predominantly non-renewable, which could have implications for sustainable development.",
+            "Previous studies that have investigated the energy-growth-environment nexus for this region are inefficient in terms of the proxies used to measure environmental quality and the estimation techniques adopted.",
+            "As such this study explores the influence of renewable and non-renewable energy consumption, economic growth, and urbanization on a more reliable environmental indicator (ecological footprint) from 1990 to 2016, while controlling for trade.",
+            "First-and-second-generation unit root and cointegration tests are applied amidst evidence of cross-sectional dependence.",
+            "Findings reveal that economic growth, trade, and non-renewable energy contribute significantly to environmental degradation in ASEAN countries.",
+            "This suggests that the region is growing at the expense of its environment, while also indulging in emission-intensive trade.",
+            "Further findings show a one-way causality from urbanization to non-renewable energy consumption.",
+            "Policy directions and implications of the findings for sustainability are discussed."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.jenvman.2020.110331.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Analysis of sustainable utilization of water resources based on the improved water resources ecological footprint model: A case study of Hubei Province, China",
+            "Sustainable utilization of water resources has become a crucial topic worldwide.",
+            "Study of the water resources ecological footprint (WEF) has important theoretical and practical significance for the management and optimal allocation of water resources.",
+            "The current WEF model does not consider the differences between regions because it uses uniform equalization and yield factors.",
+            "In this study, an improved WEF model is proposed by taking into account the regional characteristics of those two factors and provides results reflecting the consumption and supply of water resources more accurately.",
+            "Taking Hubei Province, China, as an example, this study calculated the WEF per capita, the water resources ecological carrying capacity (WEC) per capita and the water resources ecological pressure index (WEPI) of each city in 2005, 2010 and 2015, and analysed the spatiotemporal patterns of water utilization.",
+            "The results from the improved model show that the productive capacity of water resources in Hubei Province is gradually increasing and its pattern changed from a circular pattern with a higher edge and a lower centre to a ladder pattern that is higher in the southeast and lower in the northwest.",
+            "In addition, the WEF and the WEC per capita show overall upward trends.",
+            "Due to the differences at different urbanization levels and in the proportions of primary and secondary industries, the water resources pressure is greater in the east Hubei than that in the west.",
+            "The western canyon region exhibits relatively higher sustainability of the utilization of water resources than the Jianghan Plain."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.jenvman.2020.111069.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Global ecological footprint and spatial dependence between countries",
+            "The Ecological Footprint is defined as the ecological impact caused by human activities, such as agriculture, fishing, raising livestock, and building infrastructure.",
+            "A high level of Ecological Footprint index is linked to high consumption of natural resources, which causes a negative impact on the environment.",
+            "Few studies analyze the Ecological Footprint and its determinants considering the effects of neighboring countries.",
+            "Therefore, we research whether the Ecological Footprints of 158 countries are spatially correlated, as well as their determinants.",
+            "We retrieve the data from the Global Footprint Network and the World Bank for ten years (2007\u20132016) and apply a dynamic spatial Durbin model.",
+            "Unlike previous studies of spatial dependence, we estimate the direct, indirect and total effects of biocapacity, trade openness and GDP on the Ecological Footprint in the short-run and long-run horizons.",
+            "Our results detect significant spatial effects.",
+            "We find that biocapacity, trade openness and GDP increase the Ecological Footprint of countries, however, the former two exhibit significant indirect effects in both horizons while the latter one display significant direct effects.",
+            "These effects account for a significant share of the variation of the Ecological Footprint.",
+            "Finally, we discuss the implications of our results to academics and policymakers."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.pursup.2017.05.003.txt": {
+        "sdg": "12",
+        "sentences": [
+            "The long shadow of public policy; Barriers to a value-based approach in healthcare procurement",
+            "Procurement in the UKs National Health Service (NHS) is facing its most significant financial challenge.",
+            "Despite the sheer scale and complexities of the public healthcare sector, the Government's solutions are all too often packaged as \"collaborate more\", \"standardise products\" and \"leverage spend\".",
+            "Unfortunately, these over simplistic solutions take a myopic view of market drivers, conflate spend with potential savings and fail to deliver value.",
+            "Many contracts have already been commercially optimised yet the funding crisis continues to deepen.",
+            "New value-based procurement approaches are needed to drive longer-term innovation and cost reduction and to move debates from efficiencies to embrace effectiveness in integrated supply chains.",
+            "In this research, we adopt the resource-based view (RBV) as a lens to explore the extent to which NHS resources support the strategic adoption of value-based approaches.",
+            "An empirical case study on a regional cluster of six NHS Trusts in England, confirms the dominance of narrow price-based approaches that create barriers to moving towards longer-term, valuebased procurement.",
+            "The antecedent roots of price-based approaches are unpicked through a hermeneutic analysis of recent Government commissioned reports to show how these have set the tone, culture and priorities for healthcare procurement in the UK.",
+            "The analysis provides explanatory power to the case study by illustrating how Government reports have led to, and legitimised the dominance of price-based approaches and caused relational and resource-based barriers to adopting value-based procurement, despite stakeholder enthusiasm.",
+            "The findings provide unique insights into why public procurement has struggled to reach beyond its traditional cost orientated scope.",
+            "We contribute to an extended consideration of the RBV in public organisations through identifying the role of the policy environment in determining and legitimatising an organisation's strategic direction."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.renene.2019.09.005.txt": {
+        "sdg": "12",
+        "sentences": [
+            "The effect of financial development on renewable energy consumption.",
+            "A panel data approach",
+            "One of the strategic objectives of the European Union is to increase the renewable energy consumption level, in a market which brings together technological, financing and customer engagement innovations.",
+            "However, little is known about the impact of the financial sector on renewable energy consumption.",
+            "The aim of the paper is to examine the effect of financial development on renewable energy consumption using a panel data of 28 countries in the European Union (EU) over the period 1990\u20132015.",
+            "Our research is based on a panel fixed effects model, where renewable energy consumption is given as a function of income, energy prices, financial development, and foreign direct investments.",
+            "The results of the empirical analysis show that all three different dimensions of financial development (banking sector, bond market, and capital market) have a positive effect on the share of renewable energy consumption.",
+            "Additionally, our results show that capital market development does not influence renewable energy consumption in the new EU Member States.",
+            "Our empirical results give valuable insights into how best to deploy capital in the renewable sector, in order to provide cost-competitive options to customers, with the final objective of expanding higher value-added services."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.renene.2019.11.103.txt": {
+        "sdg": "12",
+        "sentences": [
+            "The impact of renewable energy consumption on income inequality: Evidence from developed countries",
+            "Despite of the great number of studies on the impact that income gap has on the environment, we still do not know much about whether renewable energy could be a factor affecting income inequality.",
+            "The goal of this study is therefore to investigate the impact of renewable energy consumption on income inequality in a panel group of developed economies over the period 1990\u20132014.",
+            "To this end, the study employs two dynamic panel data estimation techniques: (i) panel generalized method of moments in which slope coefficients are not allowed to vary, and (ii) the dynamic common correlated effects estimator in which heterogeneity and cross-sectional dependence is taken into consideration.",
+            "The results obtained from the both estimators indicate that an increase in renewable energy consumption leads to a decrease in income inequality.",
+            "Beyond the environmental concerns, this result confirms that adoption of renewable energy sources will also play a crucial role in reducing income inequality.",
+            "In addition, it is also proved that the role of renewable energy consumption on income inequality is robust to estimation technique.",
+            "Policy implications of these results are also discussed."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.renene.2020.05.101.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Increasing self-consumption of renewable energy through the Building to Vehicle to Building approach applied to multiple users connected in a virtual micro-grid",
+            "This paper focuses on a novel energy management approach, namely Building to Vehicle to Building, in which electric vehicles act as vector devices for renewable energy exchanges among buildings.",
+            "The main goal behind this concept is to benefit from the potentiality of electric vehicles toward the achievement of the zero-energy target extended to a buildings cluster level, by exploiting renewable generation on- and off-site.",
+            "To this aim, a dynamic simulation tool is developed to assess the energy and economic performance of the proposed V2B2 scheme applied to a cluster of multiple users made of non-residential buildings and electric vehicles with bidirectional charging, used as a back-up power supply for increasing self-consumption of energy produced on-site by PV panels integrated in one of the buildings, to be also exploited off-site by other users.",
+            "A case study analysis is conducted for a sample cluster of 3 building sand 3 electric vehicles, located in a Mediterranean city (Naples, Italy) with the aim at conducting the proof of concept.",
+            "Simulation results show that the proposed V2B2 scheme enhances the match between the on-site renewable generation and the whole system demand, i.e.",
+            "buildings and electric vehicles\u2019 needs, by reducing the grid operation and boosting the system economic convenience.",
+            "The proposed energy management scheme represents an example of novel aggregator energy and business model which will play a crucial role in the next generation of smart cities and communities."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.resconrec.2018.02.033.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Unveiling barriers to sustainable public procurement in emerging economies: Evidence from a leading sustainable supply chain initiative in Latin America",
+            "In light of the Theory of Ecological Modernisation, this is the first work to explore the organisational barriers affecting one of the most significant sustainable public procurement initiatives in Latin America: the Brazilian Environmental Agenda for Public Operations Management (the \u2018A3P Programme\u2019).",
+            "This article explores the barriers to sustainable procurement in a Brazilian context, inspired by the work of Brammer and Walker (2011).",
+            "Based on the results of a survey of programme managers, our first recommendation is to group the barriers to sustainable procurement into five categories: organisational culture, motivation, economic uncertainty, market, and operations.",
+            "Amongst these, it was found that organisational culture stands out as a particular barrier to sustainable public procurement.",
+            "This work also highlights Ecological Modernisation Theory as a useful tool for understanding why variables related to cost and budget are not barriers to implementing sustainable public procurement initiatives.",
+            "Consequently, the main implication of this study is that government should consider cultural change management when developing sustainability management initiatives."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.resconrec.2018.12.001.txt": {
+        "sdg": "12",
+        "sentences": [
+            "The role of e-government in sustainable public procurement in developing countries: A systematic literature review",
+            "Despite their relatively lower national income, studies suggest that developing countries have consistently advanced their e-government structures.",
+            "However, there is little knowledge on how governments\u2019 deployment of electronic and internet technologies may be leveraged to stimulate sustainable supply chain management, particularly Sustainable Public Procurement (SPP) practices.",
+            "From a Systematic Literature Review (SLR), this paper affirms such allusions by scholars and reports that government deployment of electronic and internet tools indeed promotes SPP towards the bigger agenda of sustainable development (SDG 12.7).",
+            "In this paper, 68 articles of heterogeneous research methods published in peer-review journals since 2001\u20132017 are systematically reviewed.",
+            "This paper concludes that efforts in building a robust ICT infrastructure, online portals, and human capacity to use ICT offer developing countries inter alia an informative platform for sharing and communicating SPP requirements.",
+            "E-government also facilitates a wider sample for market readiness assessment and an integrated e-procurement system towards effective SPP monitoring and evaluation.",
+            "This study has significant implications for promoting sustainability in the downstream supply chain practices in public sector organizations in the developing country context."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.resconrec.2020.104811.txt": {
+        "sdg": "12",
+        "sentences": [
+            "The capital load of global material footprints",
+            "Despite calls for large-scale reductions in material use and efforts to initiate a \u201ccircular economy\u201d that promotes recycling and reuse, a limited decoupling between overall resource extraction and economic growth has been historically found.",
+            "This is particularly true if resource use is measured with the life-cycle or consumption-based material footprint (MF) indicator that allocates material extraction to final goods and services.",
+            "However, this indicator treats capital goods as final products rather than part of the production process.",
+            "In this paper, we introduce the capital-augmented material footprint (CAMF), a new indicator of material use that includes all the materials embedded in capital goods.",
+            "Results for 49 countries and regions over the period 1995\u20132015 show that for mineral use, about 50\u201360% of the total footprint of final consumption is embodied in capital goods, whereas for biomass, the figure is around 10%.",
+            "The largest increase in material requirements was observed in non-OECD countries and in service sectors in general.",
+            "More countries achieve relative and absolute decoupling when using the CAMF as indicator of material use.",
+            "Our results underpin the need for comprehensive indicators when assessing options to decrease the impacts of consumption."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.resourpol.2020.101677.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Moving towards a sustainable environment: The dynamic linkage between natural resources, human capital, urbanization, economic growth, and ecological footprint in China",
+            "The relationship between natural resource abundance and environmental degradation has important environmental implications.",
+            "However, this domain is insufficiently investigated, and diverse findings are evident in the literature.",
+            "The significant economic growth, along with rapid urbanization and industrialization, has increased the extraction and consumption of natural resources in China.",
+            "Therefore, this study investigates the effect of natural resources abundance, human capital, and urbanization on the ecological footprint in China, controlling economic growth.",
+            "The study uses the famous Bayer and Hack cointegration test, and bootstrap causality technique to study cointegration and causal association among variables.",
+            "The findings of the study confirm the long-run equilibrium relationship among variables.",
+            "The long-run results reveal that natural resource rent increases the ecological footprint.",
+            "Urbanization and economic growth contribute to environmental degradation, whereas human capital mitigates environmental deterioration.",
+            "Interestingly, the interaction between urbanization and human capital helps in alleviating environmental degradation, which indicates a moderating effect of human capital in promoting sustainable urbanization.",
+            "The estimates of the bootstrap causality method disclose unidirectional causality from natural resources to the ecological footprint.",
+            "Urbanization also Granger-causes ecological footprint without any feedback.",
+            "The results are also compared and verified using carbon footprint as an additional proxy for environmental degradation.",
+            "Lastly, comprehensive policy measures are proposed to improve environmental quality."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.rser.2019.109347.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Can green gas certificates allow for the accurate quantification of the energy supply and sustainability of biomethane from a range of sources for renewable heat and or transport?",
+            "Abstract",
+            "Ireland has a significant potential resource to decarbonise natural gas through producing green gas for renewable heat and transport.",
+            "Key resources for anaerobic digestion include food waste, slurry from farming, and grass silage.",
+            "This paper establishes production pathways for consideration in a certification scheme.",
+            "Certification is required to ensure guarantee of origin and sustainability.",
+            "This paper also identifies potential challenges relating to sustainability and end use.",
+            "Analysis in this paper shows that biomethane must effect 14.4\u202fg CO2-eq/MJ for renewable heat and 32.9\u202fg CO2-eq/MJ for transport fuel to be deemed sustainable according to the recast Renewable Energy Directive.",
+            "A sample calculation for grass biomethane shows that the emissions criteria for renewable transport are significantly easier to satisfy compared to renewable heat.",
+            "Grass biomethane can achieve an emissions saving of 76% for transport, meeting the 65% emissions saving criteria.",
+            "For use as heat, the saving achieved is 66% against criteria of 80%.",
+            "As such, these criteria push renewable gas production towards transport as an end use rather than heat.",
+            "This will have implications for the development of the industry in Ireland."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.rser.2020.109783.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Carbon footprint of construction industry: A global review and supply chain analysis",
+            "This paper conducts a global review and a macro-level supply chain analysis focusing on carbon footprint of construction industry worldwide for the period between 2009 and 2020 using the Scopus database.",
+            "A total of 1833 journal articles are revealed with focus on carbon footprint in the field of construction in general, of which only 115 (6% of the total) studies have a macro-level analysis of the construction sector, providing a more holistic overview of the construction sector from various aspects.",
+            "These macro-level studies were reviewed and classified based on journal, country, year, method, scope of analysis, type of construction, and period.",
+            "The findings showed that approximately 60% of these studies focus on the Chinese construction industry and the majority of studies analyzed national-level (75%) and city-level (18%) carbon footprints of construction.",
+            "On the contrary, global-level analysis has a lower share, which accounted for only 6% of reviewed articles.",
+            "The review showed that more than 20% of studies use the input-output analysis as the main methodological approach to quantify macro-level carbon emission from construction sector, which is followed by the process-based life cycle assessment with 10% share, where more bottom-up approaches are employed.",
+            "There are only a handful of articles found in the literature using a hybrid life cycle assessment and global multiregional input-output analysis for carbon footprint accounting of construction.",
+            "Furthermore, there is also no study found in the literature, which presented a comprehensive regional and global supply chain analysis of construction carbon footprints.",
+            "The results revealed that the largest portion of carbon emissions stem from the regional and global supply chains of the construction industries.",
+            "The authors concluded that carbon reduction policies should not only consider the limited regional impacts; however, it must take into account the role of indirect, complex and interconnected global supply chains of construction industries."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.scitotenv.2018.04.346.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Assessing the environmental sustainability of electricity generation in Chile",
+            "Abstract",
+            "Around 40% of electricity in Chile is supplied by renewables and the rest by fossil fuels.",
+            "Despite the growing electricity demand in the country, its environmental impacts are as yet unknown.",
+            "To address this gap, the current study presents the first comprehensive assessment of the life cycle environmental sustainability of electricity generation in Chile.",
+            "Both the individual sources and the electricity mix over the past 10\u202fyears are considered.",
+            "The following sources present in the electricity mix are evaluated: coal, oil, natural gas, biogas, biomass, wind, solar photovoltaics (PV) and hydropower.",
+            "In total, 10 electricity technologies and 174 power plants installed across the country have been considered.",
+            "Eleven environmental impacts have been estimated, including global warming, human toxicity, ecotoxicities, as well as resource and ozone layer depletion.",
+            "The results reveal that hydropower is environmentally the most sustainable option across the impacts, followed by onshore wind and biogas.",
+            "Electricity from natural gas has 10%\u201384% lower impacts than biomass for seven categories.",
+            "It is also 13%\u201398% better than solar PV for six impacts and 17%\u201366% than wind for four categories.",
+            "Solar PV has the highest abiotic depletion potential due to the use of scarce elements in the manufacture of panels.",
+            "While electricity generation has grown by 44% in the past 10\u202fyears, all the impacts except ozone layer depletion have increased by 1.6\u20132.7 times.",
+            "In the short term, environmental regulations should be tightened to improve the emissions control from coal and biomass plants.",
+            "In the medium term, the contribution of renewables should be ramped up, primarily increasing the hydro, wind and biogas capacity.",
+            "Coal and oil should be phased out, using natural gas as a transitional fuel to help the stability of the grid with the increasing contribution of intermittent renewables."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "CLAIM",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.scitotenv.2019.135300.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Analysis of sustainability criteria from European public procurement schemes for foodservices",
+            "The motivation to this paper is to understand the current practices and recommendations for public purchases of foodservices within EU.",
+            "In the literature, several examples are made available on current practices or achievements in the purchase of food products and foodservices, made by public authorities.",
+            "However, the evidence on how the sustainability aspects are covered by distinct procurement schemes for the purchases of food products and foodservices, within EU, is, to our knowledge, not yet available.",
+            "To fulfil this gap this paper investigates the sustainability criteria recommended to be used in European public acquisitions of food products and catering services.",
+            "A total of 21 publicly available schemes, from 11 European countries, comprehending national guidelines and cases examples reporting achievements in procurements used by several public authorities (e.g.",
+            "countries, municipalities, schools) were analysed and reviewed for the type of single criteria used.",
+            "Schemes cover purchases of food products but also catering services and kitchen & vending equipment.",
+            "Results show that about 30 different types of sustainability criteria are identified to be used within procurement schemes.",
+            "Despite the fact that environmental criteria is the one mostly used within the schemes reviewed (18 of the overall criteria reviewed are environmental related), ethical, social and health criteria are also covered within procurements of foodservices.",
+            "It is also observed that the amounts required for the same single criterion may differ within schemes.",
+            "The importance of revealing current practices can constitute the basis for a solid ground for the implementation of greener contracts.",
+            "This analysis provides evidence, on practices within Europe, for public purchasing agents, seeking to lower environmental impact related with purchasing of food products and foodservices.",
+            "In addition, it may shed light on relevant directions for food policies seeking more sustainable paths for food consumption worldwide."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.scitotenv.2020.139768.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Integrated analysis of energy-economic development-environmental sustainability nexus: Case study of MENA countries",
+            "Abstract",
+            "The new industrialization necessitates the integration of energy efficiency, economic development, and environmental sustainability.",
+            "However, quantifying the efficiency of renewable energy towards economic development is an ongoing debate.",
+            "On this basis, this study presents a multi net-put efficiency and conventional efficiency approach to analyze non-renewable energy and renewable energy efficiency towards economic development and environmental sustainability nexus.",
+            "Data Envelopment Analysis (DEA) is utilized to estimate multi net-put conventional and renewable energy efficiency.",
+            "Likewise, the Autoregressive Distributed Lag (ARDL) Pooled Mean Group (PMG) approach is applied to examine the impact of non-renewable efficiency on economic growth, total natural resource rent and environmental quality.",
+            "Results show that the efficiency nexus of conventional energy is significant and higher (98%) than renewable energy (69.5%) for the evaluated period (2006\u20132016).",
+            "Nonetheless, conventional energy efficiency of the panel of MENA countries worsen the environmental quality, thus does not enhance environmental sustainability especially in the long-run.",
+            "The results also posit that economic growth in the panel of MENA countries is detrimental to the region's environmental sustainability.",
+            "Further analysis indicates that the inefficiency of renewable energy nexus has more to do with scale size inadequacy rather than operational deficiency.",
+            "Therefore, resources and policies must be targeted towards up scaling renewable energy capacity accompanied with cautious and target oriented strategy."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.scs.2020.102138.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Revisiting the role of renewable and non-renewable energy consumption on Turkey\u2019s ecological footprint: Evidence from Quantile ARDL approach",
+            "The current study re-investigates the impact of renewable and non-renewable energy consumption on Turkey\u2019s ecological footprint.",
+            "This study applies Quantile Autoregressive Lagged (QARDL) approach for the period of 1965Q1-2017Q4.",
+            "We further apply Granger-causality in Quantiles to check the causal relationship among the variables.",
+            "The results of QARDL show that error correction parameter is statistically significant with the expected negative sign for all quantiles which confirm an existence of significant reversion to the long-term equilibrium connection between the related variables and ecological footprint in Turkey.",
+            "In particular, the outcomes suggested that renewable energy decrease ecological footprint in long-run on each quantile.",
+            "However, the results of economic growth and non-renewable energy impact positively to ecological footprint in long-short run period at all quantiles.",
+            "Finally, we tested the Environmental Kuznets Curve (EKC) hypothesis and the results of QARDL confirmed the EKC in Turkey.",
+            "Furthermore, the findings of causal investigation from Granger-causality in quantiles evident the presence of a bi-directional causal relationship between renewable energy consumption, energy consumption and economic growth with ecological footprint in the Turkish economy."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "CLAIM",
+            "NONE",
+            "NONE",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.seps.2018.11.008.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Addressing the sustainable development through sustainable procurement: What factors resist the implementation of sustainable procurement in Pakistan?",
+            "Sustainable Public Procurement is an integral part of sustainable development because of ever increasing government expenditures.",
+            "Most of the developing countries lack the required infrastructure which may support public sector sustainability.",
+            "The aim of this study is to assess the critical factors which resist the implementation of sustainable procurement in public sector of Pakistan.",
+            "We used Interpretive Structural Model to investigate and rank the interrelationships among different factors of sustainable procurement.",
+            "With the help of literature and Likert scale instrument, we found twelve key barriers that resist sustainable procurement implementation.",
+            "We also examined tender documents of 75 different public sector universities of Pakistan but found absence of sustainability element in the documents.",
+            "External factors namely government legislation and stakeholders' pressure are found most critical barriers as compared to inter organizational factors.",
+            "The study is also important to highlight the hurdles in the way of sustainable development.",
+            "First, the government must introduce rules and regulations to implement the sustainable procurement.",
+            "Stakeholders and donors must put pressure on organizations for adopting sustainable procurement.",
+            "Sustainability education should be made mandatory part of curriculum and employees should be given regular training on sustainability.",
+            "Further, public procurement policies at government and institutional levels are required to be revisited towards a circular economy."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM",
+            "NONE",
+            "NONE",
+            "NONE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.sleh.2018.09.011.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Impacts of nocturnal breastfeeding, photoperiod, and access to electricity on maternal sleep behaviors in a non-industrial rural Bolivian population",
+            "Abstract",
+            "Objectives",
+            "We tested 4 main predictions, derived from life history theory and self-evident human diurnality, regarding maternal sleep behaviors in a non-industrialized population in which mother-nursling co-sleeping is universal and prolonged: (1) Night breastfeeding incurs a sleep cost to co-sleeping mothers; (2) Night breastfeeding increases with infant age, causing mothers to sleep less; (3) Sleep duration co-varies with darkness duration; (4) Access to electricity reduces sleep duration.",
+            "Design",
+            "Mothers self-recorded and reported nursing and sleep behaviors for a 48-hour period once per month (median\u202f=\u202f5\u202fmonths).",
+            "Setting",
+            "Rural Bolivian altiplano homesteads, primarily reliant on agropastoralism, scattered throughout the countryside surrounding a main town (altitude 3800 m; 17\u00b014\u2019S, 65\u00b055\u2019W; darkness duration 10-12\u202fhours over the year).",
+            "Participants",
+            "One hundred eighty-four co-sleeping mother-infant pairs (infant age 22-730\u202fdays).",
+            "Measurements",
+            "Breastfeeding frequency, and retiring and rising times for 885 48-hour observation periods.",
+            "Results",
+            "Maternal sleep duration covaried with darkness duration.",
+            "Sleep duration was shorter in those with access to electricity (ie, living nearer to town) than those without access (more distant homesteads).",
+            "Night breastfeeding rate was fairly steady until it began to decline after the first year postpartum.",
+            "At a given infant age, higher night breastfeeding rates were associated with less maternal sleep.",
+            "As their infants aged, mothers without electricity slept more, whereas mothers with access slept less.",
+            "Conclusions",
+            "During the first year postpartum, more frequent night nursing shortens maternal sleep more than any other predictor variable.",
+            "For older infants, the effect of night nursing diminishes, and even modest \u201cmodernization\u201d (eg, access to electricity) is associated with shorter maternal sleep."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.trpro.2019.06.045.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Public procurement as driver for more sustainable urban freight transport",
+            "Authorities aim at making the urban freight system more sustainable.",
+            "The most common instruments to do so are regulation or stimulation of good practices, by offering subsidies or initiating projects together with the private parties that are responsible for actually performing urban freight transport operations.",
+            "This contribution examines the possibilities for (local) authorities to use their market role, i.e.",
+            "being a big procurer of goods and services in a city that result in many urban freight transport trips, to stimulate more sustainable urban freight transportation.",
+            "Procurement is usually not linked to transport and data from procured goods and services do not provide sufficient insights to estimates the impacts of deliveries and trips related to the procured goods and services.",
+            "This contribution discusses two cases in which (local) authorities try to make the urban freight transport that results from their procurement activities visible, via different methods, such as delivery service plans, and spend analyses.",
+            "The cases of Rotterdam (in the project BuyZET) and for the logistics hub in The Hague show the first results of how (local) authorities can act to improve urban freight transport once the trips caused by procured goods and services are clearly mapped."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "CLAIM",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.wasman.2017.08.046.txt": {
+        "sdg": "12",
+        "sentences": [
+            "A review on technological options of waste to energy for effective management of municipal solid waste",
+            "Abstract",
+            "Approximately one-fourth population across the world rely on traditional fuels (kerosene, natural gas, biomass residue, firewood, coal, animal dung, etc.)",
+            "for domestic use despite significant socioeconomic and technological development.",
+            "Fossil fuel reserves are being exploited at a very fast rate to meet the increasing energy demands, so there is a need to find alternative sources of energy before all the fossil fuel reserves are depleted.",
+            "Waste to energy (WTE) can be considered as a potential alternative source of energy, which is economically viable and environmentally sustainable.",
+            "The present study reviewed the current global scenario of WTE technological options (incineration, pyrolysis, gasification, anaerobic digestion, and landfilling with gas recovery) for effective energy recovery and the challenges faced by developed and developing countries.",
+            "This review will provide a framework for evaluating WTE technological options based on case studies of developed and developing countries.",
+            "Unsanitary landfilling is the most commonly practiced waste disposal option in the developing countries.",
+            "However, developed countries have realised the potential of WTE technologies for effective municipal solid waste management (MSWM).",
+            "This review will help the policy makers and the implementing authorities involved in MSWM to understand the current status, challenges and barriers for effective management of municipal solid waste.",
+            "This review concluded WTE as a potential renewable source of energy, which will partly meet the energy demand and ensure effective MSWM."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM"
+        ]
+    },
+    "ABC_G1B3_10.1016_j.watres.2020.116163.txt": {
+        "sdg": "12",
+        "sentences": [
+            "Exploring consumption-based planetary boundary indicators: An absolute water footprinting assessment of Chinese provinces and cities",
+            "The water planetary boundary (PB) has attracted wide academic attention but empirical water footprint research that accommodates local biophysical boundaries remains scarce.",
+            "Here we develop two novel quantitative footprint indicators, the water exceedance footprint and the surplus water footprint.",
+            "The first measures the amount of excessive water withdrawal (exceeded amount of water withdrawn against local water PBs) and the latter evaluates the potential of surplus water (amount of surplus water available within local water PBs) that can be sustainably utilised.",
+            "We quantify the extent to which demand for goods and services in Chinese provinces and cities are driving excessive withdrawal of local and global water resources.",
+            "We investigate both territorial and consumption-based water withdrawal deficit and surplus against local water withdrawal PBs.",
+            "We also trace how PB-exceeded water and surplus water are appropriated for producing certain commodities.",
+            "In 2015, China's domestic water exceedance reaches 101\u202fkm3 while the total water exceedance footprint is 92\u202fkm3.",
+            "We find that 47% of domestic excessive water withdrawal is associated with interprovincial trade.",
+            "Exceeded water transfers were dominated by agricultural trade from the drier North to the wetter South.",
+            "A revised virtual water trade network informed by exceedance and surplus water footprint metrics could help address sustainability concerns that arise from the trade of water-intensive commodities.",
+            "Our findings highlight that policy targets need to accommodate PB exceedance of both direct and virtual water use."
+        ],
+        "labels": [
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "EVIDENCE",
+            "EVIDENCE",
+            "NONE",
+            "CLAIM"
+        ]
+    }
+}
