@@ -41,9 +41,9 @@ def config():
     # You can have multiple datasets per list. All datasets (per list) will be
     # encoded and stacked to form a new combined one.
     datasets = dict(
-        train=['dataset/folds/fold4/train.json'],
-        dev=['dataset/folds/fold4/dev.json'],
-        test=['dataset/folds/fold4/test.json'])
+        train=['dataset/SciARK.json'],
+        dev=[],
+        test=[])
     train_test_splits = dict(train=0.6, dev=0.2, test=0.2)
 
 
@@ -246,6 +246,8 @@ if __name__ == '__main__':
         config_update['sentence_encoder'] = args.sentence_encoder
     if args.save_model is not None:
         config_update['save_model'] = args.save_model
+        # Create the parent directories.
+        Path(args.save_model).parent.mkdir(parents=True, exist_ok=True)
     if args.train_set is not None:
         if 'datasets' not in config_update:
             config_update['datasets'] = dict()
