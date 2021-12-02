@@ -17,6 +17,25 @@ the
 * BiLSTM - BiLSTM, and
 * (Sci)BERT - BiLST.
 
+If you use our dataset please cite us as:
+```
+@inproceedings{fergadis-etal-2021-argumentation,
+    title = "Argumentation Mining in Scientific Literature for Sustainable Development",
+    author = "Fergadis, Aris  and
+      Pappas, Dimitris  and
+      Karamolegkou, Antonia  and
+      Papageorgiou, Haris",
+    booktitle = "Proceedings of the 8th Workshop on Argument Mining",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.argmining-1.10",
+    pages = "100--111",
+    abstract = "Science, technology and innovation (STI) policies have evolved in the past decade. We are now progressing towards policies that are more aligned with sustainable development through integrating social, economic and environmental dimensions. In this new policy environment, the need to keep track of innovation from its conception in Science and Research has emerged. Argumentation mining, an interdisciplinary NLP field, gives rise to the required technologies. In this study, we present the first STI-driven multidisciplinary corpus of scientific abstracts annotated for argumentative units (AUs) on the sustainable development goals (SDGs) set by the United Nations (UN). AUs are the sentences conveying the Claim(s) reported in the author{'}s original research and the Evidence provided for support. We also present a set of strong, BERT-based neural baselines achieving an f1-score of 70.0 for Claim and 62.4 for Evidence identification evaluated with 10-fold cross-validation. To demonstrate the effectiveness of our models, we experiment with different test sets showing comparable performance across various SDG policy domains. Our dataset and models are publicly available for research purposes.",
+}
+```
+
 ## Usage
 ### EDA Baseline
 ```bash
