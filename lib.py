@@ -154,7 +154,10 @@ def load_dataset(file_path, random_state=None):
     documents, sdgs, texts, labels = [], [], [], []
     for abstract in corpus:
         try:
-            sdgs.append(corpus[abstract]['sdg'])
+            if 'sdg' in corpus[abstract]:
+                sdgs.append(corpus[abstract]['sdg'])
+            else:
+                sdgs.append(corpus[abstract]['SDG'])
         except KeyError:
             sdgs.append(None)
         documents.append(abstract)
