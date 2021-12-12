@@ -10,7 +10,7 @@ The abstracts in our dataset are related with six of the 17 SDGs and are
 annotated for their *Argumentative Units*, i.e., sentences in which the 
 authors state their *Claims* and the *Evidence* to support them.
 
-Along with the dataset we provide the code described in our paper. Specifically
+Along with the dataset we provide the code described in our [paper](https://aclanthology.org/2021.argmining-1.10/). Specifically
 the
 * EDA baseline,
 * (Sci)BERT only,
@@ -32,7 +32,6 @@ If you use our dataset please cite us as:
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2021.argmining-1.10",
     pages = "100--111",
-    abstract = "Science, technology and innovation (STI) policies have evolved in the past decade. We are now progressing towards policies that are more aligned with sustainable development through integrating social, economic and environmental dimensions. In this new policy environment, the need to keep track of innovation from its conception in Science and Research has emerged. Argumentation mining, an interdisciplinary NLP field, gives rise to the required technologies. In this study, we present the first STI-driven multidisciplinary corpus of scientific abstracts annotated for argumentative units (AUs) on the sustainable development goals (SDGs) set by the United Nations (UN). AUs are the sentences conveying the Claim(s) reported in the author{'}s original research and the Evidence provided for support. We also present a set of strong, BERT-based neural baselines achieving an f1-score of 70.0 for Claim and 62.4 for Evidence identification evaluated with 10-fold cross-validation. To demonstrate the effectiveness of our models, we experiment with different test sets showing comparable performance across various SDG policy domains. Our dataset and models are publicly available for research purposes.",
 }
 ```
 
@@ -74,7 +73,7 @@ python scibert_only.py -e allenai/scibert_scivocab_uncased -t dataset/SciARK.jso
 * To use *SciBERT* model as *Sentence Encoder* pass
   `allenai/scibert_scivocab_uncased` in the `--sentence-encoder` argument.
 
-Default values for arguments and other hyper-parameters are in the `config()`
+Default values for arguments and other hyper-parameters are in the [config()](https://github.com/afergadis/SciARK/blob/bb2931a8c221bf77c34afa82199228e889d395c6/scibert_only.py#L17)
 function.
 
 ### BiLSTM - BiLSTM
@@ -105,7 +104,7 @@ split the SciARK dataset into the default values.
 python bilstm_bilstm.py -e embeddings/glove.6B.200d.txt -t dataset/SciARK.json
 ```
 
-Default values for arguments and other hyper-parameters are in the `config()` 
+Default values for arguments and other hyper-parameters are in the [config()](https://github.com/afergadis/SciARK/blob/bb2931a8c221bf77c34afa82199228e889d395c6/bilstm_bilstm.py#L18) function.
 
 ### (Sci)BERT - BiLSTM
 ```
@@ -139,7 +138,7 @@ python scibert_bilstm.py -e allenai/scibert_scivocab_uncased -t dataset/SciARK.j
 * To use *SciBERT* model as *Sentence Encoder* pass 
 `allenai/scibert_scivocab_uncased` in the `--sentence-encoder` argument.
 
-Default values for arguments and other hyper-parameters are in the `config()` 
+Default values for arguments and other hyper-parameters are in the [config()](https://github.com/afergadis/SciARK/blob/bb2931a8c221bf77c34afa82199228e889d395c6/scibert_bilstm.py#L21)
 function.
 
 ## 10-fold cross-validation
