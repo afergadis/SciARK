@@ -1,6 +1,7 @@
 import json
 import numpy as np
 import pickle
+import lib
 import random
 import tensorflow as tf
 import torch
@@ -40,10 +41,7 @@ def config():
 
     # You can have multiple datasets per list. All datasets (per list) will be
     # encoded and stacked to form a new combined one.
-    datasets = dict(
-        train=['dataset/SciARK.json'],
-        dev=[],
-        test=[])
+    datasets = dict(train=['dataset/SciARK.json'], dev=None, test=None)
     train_test_splits = dict(train=0.6, dev=0.2, test=0.2)
 
 
@@ -54,6 +52,14 @@ def load_datasets(config):
         test=dict(),
         X=dict(train=dict(), dev=dict(), test=dict()),
         y=dict(train=dict(), dev=dict(), test=dict()))
+    # If there is not a separated test set, we have to split the training one.
+    if config['datasets']['test'] is None:
+        train, dev, test = lib.load_datasets(
+            config['datasets'], config['train_test_splits'], config['seed'])
+        datasets['train']['train_split'] = train
+        datasets['dev']['dev_split'] = dev
+        datasets['test']['test_split'] = test
+        return datasets
     for dataset in ('train', 'dev', 'test'):
         for src in config['datasets'][dataset]:
             # Try to load pickled datasets.
@@ -151,9 +157,10 @@ def main(_config, _log):
         torch.manual_seed(seed)
 
     _log.info(f'Training on: {_config["datasets"]["train"]}')
-    if len(_config['datasets']['dev']) > 0:
+    if _config['datasets']['dev'] is not None:
         _log.info(f'Development set: {_config["datasets"]["dev"]}')
-    _log.info(f'Testing on: {_config["datasets"]["test"]}')
+    if _config['datasets']['test'] is not None:
+        _log.info(f'Testing on: {_config["datasets"]["test"]}')
 
     datasets = load_datasets(_config)
     embdeded_datasets = encode_datasets(datasets, _config, _log)
